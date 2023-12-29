@@ -1,11 +1,9 @@
 Hi,
-
-Here is a project which I have done regarding Banking transactions fraudulent data analysis using SQL and Power BI dashboard and extracted many insights that will definitely helpful for Banking stakeholders to understand the customer behavior and theri transactions fraudulent analysis. Validated all the values by using SQL. 
+Here is a project which I have done regarding Banking transactions fraudulent data analysis using SQL and Power BI dashboard and extracted many insights that will definitely helpful for Banking 
+stakeholders to understand the customer behavior and theri transactions fraudulent analysis. Validated all the values by using SQL. 
 The data collected from one of the open source data platform i.e #kaggle.
 
-
 The following insights that I have extracted from the data.
-
 1. Overall Performance:
 i. Total transaction volume over the specified period?
 ii. How has the total transaction volume changed over time?
@@ -43,5 +41,6 @@ ii. customers transaction pattern over the period?
 i. Any noticeable difference in transaction behavior between genders?
 ii. Are there gender-specific trends related to fraud?
 
-
-These are the few insights i have extracted by using Power BI Dashboard as attached here. I have treied to cover all questions aim to cover a range of aspects, including overall performance, fraud analysis, geographic patterns, transaction types, card types, expense types, customer behavior, gender analysis and success transaction patterns. Banking Stakeholders can use the insights gained from these questions to make informed decisions, enhance fraud prevention strategies and improve overall business processes.
+These are the few insights i have extracted by using Power BI Dashboard as attached here. I have treied to cover all questions aim to cover a range of aspects, including overall performance, 
+fraud analysis, geographic patterns, transaction types, card types, expense types, customer behavior, gender analysis and success transaction patterns. Banking Stakeholders can use the insights 
+gained from these questions to make informed decisions, enhance fraud prevention strategies and improve overall business processes.
