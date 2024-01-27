@@ -1,0 +1,901 @@
+﻿company,job_title,company_rating,location,salary_avg_estimate,company_size,company_founded,employment_type,industry,sector,revenue,career_opportunities_rating,comp_and_benefits_rating,culture_and_values_rating,senior_management_rating,work_life_balance_rating
+ABB,Junior Data Analyst,4,Bengaluru,"₹ 3,25,236",10000+ Employees,1883,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.7,3.6,4,3.5,3.9
+Philips,Data Scientist - AI/ML,4,Bengaluru,,10000+ Employees,1891,Company - Public,Healthcare Services & Hospitals,Healthcare,$10+ billion (USD),3.8,3.7,4,3.5,4
+HSBC,Data Science GSC’s,3.9,Bengaluru,,10000+ Employees,1865,Company - Public,Banking & Lending,Finance,$10+ billion (USD),3.6,3.6,3.8,3.4,3.7
+Facctum Solutions,Data Analyst,,Karnataka,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+JPMorgan Chase & Co,Data and Analytics - Associate,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Sanfoundry,Data Scientist - Fresher,,Hyderābād,"₹ 4,16,516",1 to 50 Employees,--,Self-employed,Colleges & Universities,Education,Unknown / Non-Applicable,4.5,4.3,4.6,4.7,4.6
+Beinex,Trainee in Data Science,3.9,Cochin,"₹ 2,80,977",201 to 500 Employees,2017,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.9,3.9,3.5
+Sanfoundry,Junior Software Engineer - Data Science - Fresher,,Hyderābād,"₹ 3,82,623",1 to 50 Employees,--,Self-employed,Colleges & Universities,Education,Unknown / Non-Applicable,4.5,4.3,4.6,4.7,4.6
+Oracle,Data Scientist,3.8,Bengaluru,"₹ 7,09,930",10000+ Employees,1977,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),3.6,3.5,3.7,3.5,4
+PhonePe,Data Scientist,4.1,Bengaluru,"₹ 10,24,695",5001 to 10000 Employees,2015,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4,4.2,4.1,3.7,3.8
+Hyqoo,Data Annotator,4.5,Remote,,51 to 200 Employees,2018,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.3,4.1,4.5,4.2,3.9
+BigShyft,Data Scientist,3.9,Bengaluru,"₹ 20,00,000",1 to 50 Employees,2018,Company - Private,HR Consulting,Human Resources & Staffing,Less than $1 million (USD),3.7,3.8,3.5,3.3,3.1
+Findem,Researcher - Data Operations Intern,4.3,Remote,"₹ 9,000",51 to 200 Employees,2019,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.2,4.3,4.1,4.2,4
+Sanfoundry,Junior Data Scientist,,Hyderābād,,1 to 50 Employees,--,Self-employed,Colleges & Universities,Education,Unknown / Non-Applicable,4.5,4.3,4.6,4.7,4.6
+News Corp,Data Analyst,3.6,Bengaluru,"₹ 5,22,206",10000+ Employees,2013,Company - Public,Publishing,Media & Communication,$5 to $10 billion (USD),3.5,3.4,3.3,3.2,3.5
+"Medpace, Inc.",Clinical Data Coder,3.4,Thāne,"₹ 5,79,224",5001 to 10000 Employees,1992,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$2 to $5 billion (USD),3.3,3,3.2,3,3.2
+Infosys,Data Scientist,3.8,Bengaluru,,10000+ Employees,1981,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.8,3,4,3.5,3.7
+Microsoft,Data Annotation Specialist,4.2,Hyderābād,"₹ 3,17,979",10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4,4.1,4.2,3.8,4.1
+Skyla Software Solution,Data Entry Operator,,Jamshedpur,"₹ 84,853",1 to 50 Employees,--,Company - Public,--,--,Unknown / Non-Applicable,4,3,5,4,2
+TVS Supply Chain Solutions,Data Entry Operator,3.4,Bengaluru,"₹ 2,55,288",501 to 1000 Employees,--,Company - Private,Shipping & Trucking,Transportation & Logistics,Unknown / Non-Applicable,3.2,2.9,3,3,3
+Nissan,Data Engineer I,3.9,Thiruvananthapuram,"₹ 4,43,415",10000+ Employees,1933,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$2 to $5 billion (USD),3.6,3.7,3.7,3.5,3.4
+SatSure Analytics India,Data Scientist Intern,,Bengaluru,,51 to 200 Employees,2017,Company - Private,Aerospace & Defence,Aerospace & Defence,Unknown / Non-Applicable,4.7,3.8,4.4,4.3,3.9
+Sanfoundry,Data Scientist - Python/ Machine Learning,,Mumbai,,1 to 50 Employees,--,Self-employed,Colleges & Universities,Education,Unknown / Non-Applicable,4.5,4.3,4.6,4.7,4.6
+MathCo,Associate - Data Science,3.5,Bengaluru,"₹ 8,76,519",1001 to 5000 Employees,2016,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,3.6,3.4,3.6,3.2,2.9
+Amex,Analyst - Data Analytics,4.2,Gurgaon,"₹ 4,82,311",10000+ Employees,1850,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD),3.8,4,4.2,3.8,4.1
+KPMG,Digital Trust S&G-Data Privacy and Ethics Analyst,3.8,Gurgaon,"₹ 4,95,831",10000+ Employees,1987,Company - Private,Business Consulting,Management & Consulting,$2 to $5 billion (USD),4,3.3,3.7,3.5,3
+Dow Jones,Summer 2024 Internship - Data & AI (APAC),3.8,Delhi,,5001 to 10000 Employees,1882,Subsidiary or Business Segment,Broadcast Media,Media & Communication,$500 million to $1 billion (USD),3.3,3.4,3.7,3.2,4
+Infosys,Healthcare Data Analyst,3.8,Chennai,"₹ 5,33,713",10000+ Employees,1981,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.8,3,4,3.5,3.7
+Uptricks Services Pvt. Ltd.,Data Science Internship,4.3,Remote,,51 to 200 Employees,2013,Self-employed,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.9,3.8,3.9,3.9,3.9
+JPMorgan Chase & Co,Data Analyst,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Alcon,Data Analyst - Digital Health,3.8,Bengaluru,"₹ 7,84,161",10000+ Employees,1945,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$5 to $10 billion (USD),3.4,3.9,3.6,3.3,3.5
+Philips,Data Scientist - Image Processing,4,Bengaluru,,10000+ Employees,1891,Company - Public,Healthcare Services & Hospitals,Healthcare,$10+ billion (USD),3.8,3.7,4,3.5,4
+Deutsche Bank,Data Scientist,4,Pune,"₹ 5,95,940",10000+ Employees,1870,Company - Public,Banking & Lending,Finance,$10+ billion (USD),3.9,3.8,4.1,3.7,4.1
+Wipro,Data Analyst,3.7,Bengaluru,"₹ 4,94,975",10000+ Employees,1945,Company - Public,Information Technology Support Services,Information Technology,$5 to $10 billion (USD),3.6,3.2,3.7,3.3,3.5
+NatWest Group,"Data Analyst, AVP",4.1,Gurgaon,"₹ 5,79,938",10000+ Employees,1727,Company - Public,Banking & Lending,Finance,$10+ billion (USD),3.7,3.5,4.2,3.7,4.3
+Sanfoundry,Data Scientist,,Gurgaon,"₹ 4,69,574",1 to 50 Employees,--,Self-employed,Colleges & Universities,Education,Unknown / Non-Applicable,4.5,4.3,4.6,4.7,4.6
+Telstra,Data Insights & Analytics Analyst,3.9,Bengaluru,"₹ 10,14,936",10000+ Employees,1901,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),3.6,3.7,3.9,3.5,4.2
+Bullsmart,Data Scientist,,Bengaluru,"₹ 31,00,000",,,,,,,,,,,
+Leventm Technologies,Data Analysis,,Bengaluru,"₹ 4,80,625",1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,Less than $1 million (USD),,,,,
+BMC Software,Data Scientist,4.1,Pune,"₹ 7,12,088",5001 to 10000 Employees,1980,Company - Private,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),3.8,4.1,4.1,3.8,4
+Reliance Games,Data Analytics,3.5,Pune,"₹ 4,69,012",51 to 200 Employees,--,Company - Private,Video Game Publishing,Media & Communication,Unknown / Non-Applicable,3.8,3.2,3.4,2.9,3.1
+Hypersonix,Data Annotator - Contractor,5,Remote,,1 to 50 Employees,2019,Company - Private,Aerospace & Defence,Aerospace & Defence,Unknown / Non-Applicable,5,4,4.7,4.7,4.3
+FinAdvantage,FACPL_048 - Data Analyst,,Bengaluru,"₹ 11,00,000",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,2,2,1,2,1
+,Data Associate,3.9,Bengaluru,"₹ 5,00,799",10000+ Employees,1900,Company - Public,Research & Development,Management & Consulting,$2 to $5 billion (USD),3.4,3.4,3.8,3.4,3.7
+eminenture,Data Analyst,,Delhi,,51 to 200 Employees,2011,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.9,3.4,3.9,3.7,3.7
+Intercontinental Exchange,Data Analyst I,3.8,Hyderābād,"₹ 4,69,042",5001 to 10000 Employees,2000,Company - Public,Stock Exchanges,Finance,$5 to $10 billion (USD),3.5,3.7,3.5,3.3,3.6
+Infifresh Foods,Data Analyst,3.6,Bengaluru,"₹ 9,48,683",Unknown,2019,Company - Private,Fishery,Agriculture,Unknown / Non-Applicable,3.5,3.6,3.6,3.2,3.4
+Coforge Ltd.,DATA ANALYST,3.6,Greater Noida,"₹ 7,81,721",10000+ Employees,2004,Company - Public,Information Technology Support Services,Information Technology,$500 million to $1 billion (USD),3.4,3.3,3.5,3.2,3.5
+"Medpace, Inc.",Data Coordinator,3.4,Thāne,"₹ 5,89,237",5001 to 10000 Employees,1992,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$2 to $5 billion (USD),3.3,3,3.2,3,3.2
+Valenta BPO,Data Analyst,3.2,Bengaluru,"₹ 5,50,000",51 to 200 Employees,2014,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,3.2,2.7,3.1,3.1,3.6
+PhonePe,Senior Data Analyst,4.1,Bengaluru,"₹ 7,77,892",5001 to 10000 Employees,2015,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4,4.2,4.1,3.7,3.8
+Tata Consultancy Services,"Data Science, Python, GraphDB",3.8,Bengaluru,"₹ 6,48,074",10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+Syneos Health Clinical,Data Scientist I,3.8,Remote,,10000+ Employees,--,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,3.5,3.5,3.8,3.5,3.9
+Tata Consultancy Services,Employee Data Governance!,3.8,Bengaluru,"₹ 5,36,656",10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+Lloyds Technology Centre,Data Analyst,3.3,Hyderābād,,10000+ Employees,1695,Company - Public,Banking & Lending,Finance,Unknown / Non-Applicable,3.2,3.4,3.2,2.9,3.2
+Infosys,Data Privacy_Consulting,3.8,Bengaluru,"₹ 7,20,103",10000+ Employees,1981,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.8,3,4,3.5,3.7
+Tata Technologies Europe,ALM Users - Data Mining,3.8,Bengaluru,"₹ 7,89,523",10000+ Employees,1989,Company - Private,Research & Development,Management & Consulting,$100 to $500 million (USD),3.6,3.4,3.8,3.4,3.8
+JLL,Sustainability Data Analyst,3.9,Bengaluru,,10000+ Employees,--,Company - Public,Real Estate,Real Estate,$5 to $10 billion (USD),3.7,3.5,3.8,3.5,3.7
+"Medpace, Inc.",Clinical Data Reviewer,3.4,Thāne,"₹ 6,48,398",5001 to 10000 Employees,1992,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$2 to $5 billion (USD),3.3,3,3.2,3,3.2
+Sectigo,Data Analyst,3.4,Chennai,"₹ 6,36,962",201 to 500 Employees,2008,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3,2.9,3,3,3.3
+Indium Software Inc.,Data Analyst,,Bengaluru,"₹ 9,00,000",,,,,,,,,,,
+Digital Suncity,Data Entry Clerk,,Remote,"₹ 5,000",,,,,,,,,,,
+Wrike Careers Page,Customer Support Data Analyst,3.8,Bengaluru,"₹ 5,62,146",1001 to 5000 Employees,2006,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,3.4,3.7,3.9,3.3,4.1
+HealthPlix Technologies,Junior Data Scientist,,Bengaluru,"₹ 12,50,000",,,,,,,,,,,
+Suvizion Infotech,Clinical Data Coordinator,,Remote,"₹ 3,25,000",,,,,,,,,,,
+WovV Technologies,Data Engineer (WFH),4.7,Remote,"₹ 10,00,000",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,4.5,4.5,4.6,4.6,4.6
+Rotork,Data Analyst,3.7,Chennai,"₹ 5,69,738",1001 to 5000 Employees,--,Company - Public,Electronics Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.5,3.2,3.5,3.4,3.9
+Pocketly Infotech Private Limited,Data Analyst,,Bengaluru,"₹ 9,50,000",,,,,,,,,,,
+Accenture,Clinical Data Svs Associate,4,Bengaluru,,10000+ Employees,1989,Company - Public,Business Consulting,Management & Consulting,$10+ billion (USD),4,3.7,4,3.6,3.6
+Wipro Limited,Data Privacy/Data Analyst,3.7,Bengaluru,"₹ 4,94,975",10000+ Employees,1945,Company - Public,Information Technology Support Services,Information Technology,$5 to $10 billion (USD),3.6,3.2,3.7,3.3,3.5
+Giixa Infotech Pvt Ltd,Data Analyst (Lead Generation),,Remote,,,,,,,,,,,,
+Windmill Smart Solutions,Data Scientist,3.6,Remote,,51 to 200 Employees,2012,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),3.7,3.6,3.6,3.4,3.8
+Nielsen,Data Scientist,3.6,Bengaluru,"₹ 6,15,061",10000+ Employees,1923,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD),3.2,3.2,3.7,3.1,3.8
+Indium Software Inc.,Data Scientist,,Bengaluru,"₹ 25,00,000",,,,,,,,,,,
+Fractal Analytics,Cloud Data Engineer,4,Bengaluru,"₹ 8,81,722",1001 to 5000 Employees,2000,Company - Private,Business Consulting,Management & Consulting,$100 to $500 million (USD),4,3.7,4.2,3.8,3.9
+Kodehash Technologies Pvt Ltd,Data Engineer,,Remote,"₹ 9,50,000",,,,,,,,,,,
+HP,Data Analyst,4.1,Bengaluru,"₹ 8,69,528",10000+ Employees,1939,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.7,3.7,4.3,3.8,4.2
+CityLink Technology Solutions,Data Scientist,3.7,Pune,"₹ 5,29,150",1 to 50 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,Less than $1 million (USD),4.5,2.7,3.9,3.7,4.4
+Warner Bros Careers,Associate Data Engineer,3.6,Hyderābād,"₹ 5,56,230",10000+ Employees,2003,Company - Public,Film Production,Media & Communication,$10+ billion (USD),3.1,3.6,3.4,3,3.6
+NIBS,MIS Data Analyst,,Bengaluru,"₹ 32,500",,,,,,,,,,,
+Cargill,Data Engineer,4.1,Bengaluru,"₹ 8,11,773",10000+ Employees,1865,Company - Private,Crop Production,Agriculture,Unknown / Non-Applicable,3.8,3.9,4.1,3.6,3.8
+JPMorgan Chase & Co,Reference Data Analyst - Team Leader,4,Bengaluru,"₹ 6,57,267",10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Market Expertise,Data Research Analyst,,Pune,"₹ 3,04,180",51 to 200 Employees,--,Company - Public,--,--,Unknown / Non-Applicable,4.3,4,4.1,3.9,4
+ZF,Senior Data scientist,3.9,Chennai,"₹ 3,60,000",10000+ Employees,1915,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.3,3.8
+Dyson,Junior Data Engineer,3,Bengaluru,,10000+ Employees,1993,Company - Private,Electronics Manufacturing,Manufacturing,Unknown / Non-Applicable,3,3.3,2.9,2.4,3
+"Veranex, Inc.",Clinical Data Coordinator 2,,Bengaluru,,Unknown,--,Company - Private,Chemical Manufacturing,Manufacturing,Unknown / Non-Applicable,3.7,3.4,3.6,3.1,4.2
+ADCI MAA 12 SEZ,ML Data Associate I,3.7,Chennai,"₹ 2,80,854",10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.7,3.8,3.6,3.3,3.2
+Navig8 Group,Junior Data Analyst,,Mumbai,,201 to 500 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.1,4,3.3,3.2,3.7
+CommerceIQ,Data Scientist 1,3.1,Bengaluru,"₹ 4,24,264",201 to 500 Employees,2012,Company - Private,Internet & Web Services,Information Technology,$25 to $50 million (USD),2.9,3.2,2.8,2.7,2.5
+Mapmygenome,Data Scientist,2.8,Hyderābād,"₹ 4,38,887",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,2.9,2.4,2.5,2.5,2.2
+Dexcel Electronics Designs,Data Analytics,4.4,Bengaluru,"₹ 7,45,359",51 to 200 Employees,2010,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.3,4.2,4.3,4.2,4.3
+JPMorgan Chase & Co,Reference Data Analyst,4,Bengaluru,"₹ 6,57,267",10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Amex,Analyst-Data Science,4.2,Gurgaon,"₹ 4,82,311",10000+ Employees,1850,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD),3.8,4,4.2,3.8,4.1
+BookMyShow,Data Analyst - I,3.9,Mumbai,"₹ 3,75,292",501 to 1000 Employees,1999,Company - Private,Ticket Sales,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,3.8,3.5,3.6,3.5,3.4
+"Opalforce, Inc.",HR Data Analyst,,Bengaluru,"₹ 5,29,150",51 to 200 Employees,2001,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.5,4.5,4.5,4.5,4.5
+Threshold Software Solutions,Data Science Intern,,India,"₹ 17,500",,,,,,,,,,,
+Educate Girls,Data Analyst,3.8,Jaipur,"₹ 9,00,000",1001 to 5000 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.4,3.6,3.5,3.2,3.5
+Cloudastra Technologies,Data Scientist,,Noida,,,,,,,,,,,,
+Ignitho,Data Analyst Associate,4.3,Chennai,"₹ 8,35,332",51 to 200 Employees,2016,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.4,4.1,4.3,4.1,4.4
+LKQ India,Data Analyst,3.8,Bengaluru,"₹ 6,11,782",10000+ Employees,1998,Company - Public,Automotive Parts & Accessories Stores,Retail & Wholesale,$5 to $10 billion (USD),3.7,3.6,3.9,3.6,3.9
+NEAR,Big Data Analyst,4.3,Bengaluru,"₹ 7,74,730",51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.2,4,4.3,3.8,4.3
+Airtel India,Associate Data Scientist,4.1,India,,10000+ Employees,1995,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),4,3.9,3.9,3.7,3.6
+Sanfoundry,Junior Machine Learning Engineer,,Remote,,1 to 50 Employees,--,Self-employed,Colleges & Universities,Education,Unknown / Non-Applicable,4.5,4.3,4.6,4.7,4.6
+Equifax,Trainee - Data Scientist,3.5,Mumbai,"₹ 9,87,421",10000+ Employees,1899,Company - Public,Business Consulting,Management & Consulting,$2 to $5 billion (USD),3.4,3.4,3.3,3.1,3.4
+Microsoft,DATA SCIENTIST,4.2,Bengaluru,"₹ 5,06,785",10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4,4.1,4.2,3.8,4.1
+Comprinno Technologies,Jr Data Science Engineer,,Remote,"₹ 2,00,000",,,,,,,,,,,
+Adfolks,Data Engineer,,Remote,,1 to 50 Employees,2016,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.6,4,4,4.4,4.3
+Staffbee Solutions Pvt. Ltd,GCP Data Engineer (Freelance),,Remote,"₹ 1,500.00",,,,,,,,,,,
+WCG,Jr. Data & Analytics Engineer,3.2,Karnataka,,1001 to 5000 Employees,--,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),2.7,3.1,2.7,2.5,2.8
+RARR Technologies Pvt Ltd,Snowflake Data Modeler,4.7,Remote,"₹ 45,00,000",1 to 50 Employees,2018,Company - Private,Software Development,Information Technology,Less than $1 million (USD),4.7,4.5,4.9,4.9,4.8
+Thermo Fisher Scientific,Clinical Data Associate II,3.6,Remote,,10000+ Employees,1902,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.4,3.4,3.5,3.1,3.4
+ZELL EDUCATION PRIVATE LIMITED,Data Analyst,,Mumbai,"₹ 7,00,000",,,,,,,,,,,
+Fractal Analytics,Data Scientist,4,Bengaluru,"₹ 8,09,278",1001 to 5000 Employees,2000,Company - Private,Business Consulting,Management & Consulting,$100 to $500 million (USD),4,3.7,4.2,3.8,3.9
+Aptroid Consulting,Junior Data Analyst,3.8,Hyderābād,"₹ 3,79,473",201 to 500 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.5,4.3,3.7,3.6,3.1
+Wizikey,Junior Data Engineer (Delhi- NCR),3.7,Gurgaon,"₹ 6,19,677",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.7,3,3.6,3.4,3.6
+Pratt & Whitney,Business intelligence and data analytics (PBI & RPA),3.8,Bengaluru,,10000+ Employees,1925,Subsidiary or Business Segment,Aerospace & Defence,Aerospace & Defence,$10+ billion (USD),3.7,3.6,3.5,3.2,3.5
+Nasim Consulting Limited and Honest Love Our Planet,Data Engineer,,Remote,,,,,,,,,,,,
+Microsoft,Applied and Data Sciences,4.2,Delhi,,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4,4.1,4.2,3.8,4.1
+Infosys,FHIR Data Analyst,3.8,Bengaluru,"₹ 4,68,897",10000+ Employees,1981,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.8,3,4,3.5,3.7
+Google,"Data Scientist, Search",4.4,Bengaluru,,10000+ Employees,1998,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.2,4.5,4.3,3.9,4.2
+Eduno Tech India Private Limited,Junior Data Analyst,,Rewāri,"₹ 21,424",,,,,,,,,,,
+Kotak Securities,Data Analytics- Team Member,3.6,India,,1001 to 5000 Employees,--,Company - Private,Investment & Asset Management,Finance,$2 to $5 billion (USD),,,,,
+Quantiphi,Data Analyst,4.3,Mumbai,"₹ 6,47,159",1001 to 5000 Employees,2013,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,4.1,4,4,4,3.5
+Cargill,PMO Data and Reporting Analyst,4.1,Bengaluru,"₹ 9,00,000",10000+ Employees,1865,Company - Private,Crop Production,Agriculture,Unknown / Non-Applicable,3.8,3.9,4.1,3.6,3.8
+Infosys,"Data testing, ETL, MSD 365 exp - Trivandrum",3.8,Bengaluru,,10000+ Employees,1981,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.8,3,4,3.5,3.7
+Scymes Services Pvt. ltd,Reference Data Analyst,2.5,Bengaluru,"₹ 22,500",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,2.5,2.5,2.5,2,2
+Agile CRM Inc.,Data Analyst,3.1,India,"₹ 8,00,000",51 to 200 Employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,2.9,2.8,2.8,3,2.9
+Forbes Advisor,Trainee - Data Research,3.6,Mumbai,"₹ 3,17,572",201 to 500 Employees,1917,Company - Private,Publishing,Media & Communication,Unknown / Non-Applicable,3.2,3.2,3.4,3.4,3.7
+Accenture,Data Science-Data Designer,4,Bengaluru,,10000+ Employees,1989,Company - Public,Business Consulting,Management & Consulting,$10+ billion (USD),4,3.7,4,3.6,3.6
+Leegality,Data Analyst,,India,,51 to 200 Employees,--,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.9,4.8,5,4.9,4.9
+Samshek Fashion Pvt Ltd,Data Analyst,,Remote,"₹ 15,000",,,,,,,,,,,
+Cubera,Data Engineer- Junior,,Bengaluru,"₹ 5,67,450",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,2.5,2.5,2.5,2.5,3
+JPMorgan Chase & Co,Data Management - Associate,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Airtel India,Data Analyst,4.1,Gurgaon,"₹ 4,64,758",10000+ Employees,1995,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),4,3.9,3.9,3.7,3.6
+Lightrains Technolabs,Data Scientist (ML & AI),,Thiruvananthapuram,"₹ 5,47,723",Unknown,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+Bigtick Global,Data Analytics Intern,,Bengaluru,"₹ 14,707",,,,,,,,,,,
+Lemongrass Consulting,Associate Data Scientist,,India,,501 to 1000 Employees,2008,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,4.4,3.9,3.9,4,4.1
+Calix,Salesforce Data Specialist,4.8,Bengaluru,"₹ 3,28,634",1001 to 5000 Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),4.7,4.7,4.8,4.7,4.6
+Cell Propulsion,Data Entry Operator,3.8,Bengaluru,"₹ 10,000",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.7,2.9,3.3,3.2,3.2
+Zeitview,Analyst - QC data labelling,3.2,Bengaluru,"₹ 5,05,240",1 to 50 Employees,2014,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3,2.7,3.3,3.1,3.6
+Hotspot Retail,Data Analyst,,Remote,"₹ 35,00,000",,,,,,,,,,,
+Riddhi Siddhi Career Point,Junior Data Analyst,,India,"₹ 21,500",,,,,,,,,,,
+Merck KGaA Darmstadt Germany,"Data Analytics - TrackWise, Veeva, Palantir Foundry",4,Bengaluru,"₹ 7,05,220",10000+ Employees,1668,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.5,3.8,3.9,3.4,3.9
+RARR Technologies Pvt Ltd,Specialist- Data Sciences,4.7,Remote,"₹ 52,00,000",1 to 50 Employees,2018,Company - Private,Software Development,Information Technology,Less than $1 million (USD),4.7,4.5,4.9,4.9,4.8
+ABB,R&D associate Engineer- Data Science,4,Bengaluru,"₹ 5,75,393",10000+ Employees,1883,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.7,3.6,4,3.5,3.9
+BHIVE Workspace,Associate – Data Management and Analysis,4.1,Bengaluru,"₹ 3,54,599",51 to 200 Employees,2014,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,4.1,3.6,3.9,4,3.9
+Websar Technologies LLP,Data Scientist Gen AI,,Remote,"₹ 9,02,216",,,,,,,,,,,
+Bursys,Data Analyst Tranee,3.7,Panchkula,"₹ 5,29,150",51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.5,3.5,3.5,3.5
+Tata Consultancy Services,Data Analyst,3.8,Chennai,"₹ 3,98,701",10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+Log9 Materials,Data Scientist,3.9,Bengaluru,"₹ 3,63,878",51 to 200 Employees,2015,Company - Private,Electronics Manufacturing,Manufacturing,Unknown / Non-Applicable,4.1,3.6,4.1,3.6,3.8
+Parentune,Data Transformer(Internship),,Gurgaon,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.1,3.8,3.9,3.6,3.4
+Codash Solutions,Data Engineer,,Remote,"₹ 82,501",,,,,,,,,,,
+ICON,Lab Data Analyst I,3.8,Bengaluru,"₹ 4,21,485",10000+ Employees,1990,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$2 to $5 billion (USD),3.6,3.5,3.7,3.4,3.7
+Nineleaps Technology Solutions Pvt Ltd,Data Analyst,4.2,Bengaluru,"₹ 5,72,576",201 to 500 Employees,2014,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.1,3.8,4,3.8,3.8
+Google,"Business Data Scientist, Finance",4.4,Bengaluru,,10000+ Employees,1998,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.2,4.5,4.3,3.9,4.2
+adyog,Data Scientist,,Chennai,"₹ 6,32,851",1 to 50 Employees,--,Company - Public,--,--,Unknown / Non-Applicable,5,4.1,4.1,5,4.5
+Pattern Effects Labs,Data Scientist,,Bengaluru,,,,,,,,,,,,
+Streamingo Solutions Office,Data Labeling Quality Specialist,,Bengaluru,"₹ 3,22,452",1 to 50 Employees,2015,Company - Private,Software Development,Information Technology,Less than $1 million (USD),3.8,3.7,4.1,3.7,3.9
+COMPEGENCE,Excel Data Scientist with Python and SQL,,Bengaluru,"₹ 1,15,000",,,,,,,,,,,
+Amber Internet solutions,Data Analytics Intern,4.3,Pune,,501 to 1000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,$5 to $25 million (USD),4.2,3.9,4.3,4.1,4
+WovV Technologies,"Data Engineer (GIS, ArcGIS, ESRI)",4.7,Remote,,Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,4.5,4.5,4.6,4.6,4.6
+Tata Consultancy Services,Data Enginner,3.8,Chennai,,10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+Ameriprise India,Data Analyst-Digital Analytics,3.8,Gurgaon,,1001 to 5000 Employees,--,Company - Private,Investment & Asset Management,Finance,Unknown / Non-Applicable,,,,,
+Bradken,Data Scientist,4.3,Coimbatore,"₹ 6,05,338",1001 to 5000 Employees,2003,Company - Public,Machinery Manufacturing,Manufacturing,$100 to $500 million (USD),4.1,3.9,4.1,3.8,4.2
+UBS,Data Analyst,3.9,Hyderābād,"₹ 7,27,518",10000+ Employees,1862,Company - Public,Investment & Asset Management,Finance,$10+ billion (USD),3.6,3.5,3.9,3.5,3.8
+Tata Consultancy Services,Python + SQL,3.8,Hyderābād,"₹ 4,19,162",10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+Sea and Beyond,Data Analyst,5,Mumbai,,,,,,,,,,,,
+S&P Global,Data Analyst,4.1,Bengaluru,,10000+ Employees,1860,Company - Public,Research & Development,Management & Consulting,$10+ billion (USD),3.8,3.8,4.2,3.8,4.2
+SeedApps Technology Services,Data Analyst,,Coimbatore,,,,,,,,,,,,
+Tata consulting engineers,Data Entry Cum Office Assistant,3.8,Bengaluru,"₹ 3,46,627",1001 to 5000 Employees,1962,Company - Private,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",$25 to $50 million (USD),3.7,3.3,3.9,3.4,3.6
+Google,"Product Data Scientist, Pixel",4.4,Bengaluru,,10000+ Employees,1998,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.2,4.5,4.3,3.9,4.2
+Kovai.co,Data Analyst,4.5,Coimbatore,"₹ 4,38,621",51 to 200 Employees,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.6,4.1,4.3,4.5,4.5
+JPMorgan Chase & Co,"Environmental, nature Data Modeller",4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Vernacular.ai,Data Annotator,3.8,Bengaluru,"₹ 2,19,333",51 to 200 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),3.5,3.8,3.7,3.4,3.8
+Comprinno Technologies Pvt. Ltd.,Data Science Engineer,,Remote,"₹ 20,000",,,,,,,,,,,
+Trelleborg Sealing Solutions (TSS),DATA ANALYST,3.7,Bengaluru,"₹ 3,87,298",10000+ Employees,1905,Company - Public,Machinery Manufacturing,Manufacturing,$2 to $5 billion (USD),3.3,3.5,3.3,3.2,3.3
+Aspire SoftServ,Data Research Associate,,India,,51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+Volvo Group,Experienced Data Scientist,4.1,Bengaluru,"₹ 7,83,182",10000+ Employees,1927,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1
+Kudos India,Data Analysts,3.9,India,,Unknown,--,Company - Private,--,--,Unknown / Non-Applicable,3.8,3.3,3.9,3.9,4.2
+JPMorgan Chase & Co,Data Analytics Digital-Associate,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Rackspace,Support Technician I - Data pipe,3.5,Remote,,1001 to 5000 Employees,1998,Company - Public,Information Technology Support Services,Information Technology,$2 to $5 billion (USD),3.4,3.6,3.6,3.1,3.9
+Scienaptic Systems,Data Scientist,4.1,India,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.1,4,4.2,3.9,4
+Tata Consultancy Services,Data & Analytics Architect,3.8,Mumbai,"₹ 3,93,199",10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+Hudson's Bay Company,Jr. Data Analyst,3.6,Bengaluru,,10000+ Employees,1670,Company - Public,"Department, Clothing & Shoe Stores",Retail & Wholesale,$10+ billion (USD),3.2,3.1,3.4,3.1,3.5
+Navikenz,Data Visualization,,India,,51 to 200 Employees,2021,Company - Private,Business Consulting,Management & Consulting,$1 to $5 million (USD),4.5,3.9,4.5,4.5,4.5
+WovV Technologies,Data Scientist,4.7,Pune,"₹ 10,00,000",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,4.5,4.5,4.6,4.6,4.6
+iXceed Solutions,Data Analyst,4.7,Gurgaon,"₹ 20,00,000",501 to 1000 Employees,2012,Company - Private,"Staffing, Recruitment & Subcontracting",Human Resources & Staffing,$5 to $25 million (USD),4.7,4.4,4.7,4.6,4.7
+NTT Ltd.,Specialist - Data Center Operations,4.2,Karnataka,,10000+ Employees,1952,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),4,3.6,4,3.7,4
+RARR Technologies Pvt Ltd,Azure Data Engineer,4.7,Remote,"₹ 25,00,000",1 to 50 Employees,2018,Company - Private,Software Development,Information Technology,Less than $1 million (USD),4.7,4.5,4.9,4.9,4.8
+kaleidofin,Data Analyst,3.4,Chennai,,51 to 200 Employees,2017,Company - Private,Investment & Asset Management,Finance,$5 to $25 million (USD),3.1,2.7,2.7,3,2.4
+Hotspot Retail,Data Scientist,,Remote,"₹ 35,00,000",,,,,,,,,,,
+AXA,Associate Scientist- Data Sourcing & Solutions,4,Bengaluru,"₹ 7,98,123",10000+ Employees,1985,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),3.6,3.6,3.9,3.5,3.9
+Concord Technologies,Data Annotator,4.6,Chennai,"₹ 4,23,868",51 to 200 Employees,1996,Company - Private,Computer Hardware Development,Information Technology,$25 to $50 million (USD),4.4,4.5,4.5,4.4,4.4
+Tata Consultancy Services,Data Lineage Analyst,3.8,Pune,"₹ 4,13,398",10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+Metyis,Data Science Associate,3.7,Bengaluru,"₹ 8,69,483",1001 to 5000 Employees,2013,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,3.8,3.3,3.9,3.5,4
+Simplex Services,Data Analyst/Power BI Reporting,,India,,1 to 50 Employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.6,4.5,4.9,5,4.7
+Wesco,India-Bangalore: Data Steward,3.7,Bengaluru,"₹ 5,80,948",10000+ Employees,1922,Company - Public,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.4,3.6,3.3,3.8
+WSD Consultant,Junior Data Scientist/,5,Bengaluru,"₹ 5,79,655",Unknown,--,Company - Private,--,--,Unknown / Non-Applicable,5,3,4,5,4
+Findem,Researcher- Data Operations,4.3,Bengaluru,,51 to 200 Employees,2019,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.2,4.3,4.1,4.2,4
+Infimetrics,Data Scientist (3+years),,Remote,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3,3,5,4,5
+Vervali Systems Pvt. Ltd.,Data Engineer,4.1,Remote,,51 to 200 Employees,2010,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4.2,3.3,4.4,4,4.2
+Sai Computers Limited,Data Analyst Intern,,Ghaziabad,"₹ 11,000",,,,,,,,,,,
+CIGNEX Datamatics,Data quality analysts/engineers,3.3,Bengaluru,"₹ 5,00,799",501 to 1000 Employees,2000,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.2,3.1,3.3,2.9,3.4
+Analyse Digital Business Solutions Pvt Ltd,Data Analyst,,Thiruvananthapuram,,,,,,,,,,,,
+Intercontinental Exchange,Data Associate,3.8,Hyderābād,"₹ 4,09,878",5001 to 10000 Employees,2000,Company - Public,Stock Exchanges,Finance,$5 to $10 billion (USD),3.5,3.7,3.5,3.3,3.6
+Cummins,Data Engineer,4.1,Pune,,10000+ Employees,1919,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.6,4.2,3.7,4
+Ericsson,Data Engineer,4.1,Noida,"₹ 7,01,100",10000+ Employees,1876,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),3.8,3.6,4.2,3.6,4.1
+RARR Technologies Pvt Ltd,AWS Data Engineer,4.7,Remote,"₹ 25,00,000",1 to 50 Employees,2018,Company - Private,Software Development,Information Technology,Less than $1 million (USD),4.7,4.5,4.9,4.9,4.8
+Valeo Health,Data Analyst,,Kormangala,"₹ 8,00,000",,,,,,,,,,,
+"Ventra Health, Inc.",Data Engineer,3.3,India,,1001 to 5000 Employees,--,Company - Private,Healthcare Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.2,3,3.2,3,3.5
+Orbit & Skyline Semiconductor,Data Analyst,,Mohali,"₹ 5,00,000",,,,,,,,,,,
+Equifax,Data Scientist,3.5,Bengaluru,"₹ 9,87,421",10000+ Employees,1899,Company - Public,Business Consulting,Management & Consulting,$2 to $5 billion (USD),3.4,3.4,3.3,3.1,3.4
+Schneider Electric,Data Engineer,4.2,Bengaluru,"₹ 7,79,846",10000+ Employees,1836,Company - Public,Energy & Utilities,"Energy, Mining, Utilities",$10+ billion (USD),4.1,3.8,4.2,3.8,4
+M&C Saatchi Performance,"Analyst, Data and Analytics",4.3,Delhi,,51 to 200 Employees,2006,Company - Public,Advertising & Public Relations,Media & Communication,$5 to $25 million (USD),4.2,3.6,4.3,4.1,3.8
+iCRC,BI Data Analyst,3.9,Bengaluru,"₹ 4,60,906",10000+ Employees,1863,Non-profit Organisation,"Civic, Welfare & Social Services",Non-profit & NGO,Unknown / Non-Applicable,3.3,3.6,3.8,3.1,3.5
+Hyqoo,Data Scientist,4.5,Remote,,51 to 200 Employees,2018,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.3,4.1,4.5,4.2,3.9
+UBS,Data Engineer,3.9,Pune,"₹ 5,79,471",10000+ Employees,1862,Company - Public,Investment & Asset Management,Finance,$10+ billion (USD),3.6,3.5,3.9,3.5,3.8
+Google,"Business Data Scientist, Machine Learning Engineering",4.4,Bengaluru,,10000+ Employees,1998,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.2,4.5,4.3,3.9,4.2
+Taurus Technologies Pvt. Ltd,Data Analyst,,India,"₹ 6,00,000",,,,,,,,,,,
+Cargill,Data Analyst - Price hub,4.1,Gurgaon,"₹ 6,12,372",10000+ Employees,1865,Company - Private,Crop Production,Agriculture,Unknown / Non-Applicable,3.8,3.9,4.1,3.6,3.8
+Wipro,Azure Data Engineer,3.7,Hyderābād,"₹ 5,88,584",10000+ Employees,1945,Company - Public,Information Technology Support Services,Information Technology,$5 to $10 billion (USD),3.6,3.2,3.7,3.3,3.5
+Amber Internet solutions,Data Analyst,4.3,Pune,"₹ 4,94,268",501 to 1000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,$5 to $25 million (USD),4.2,3.9,4.3,4.1,4
+BDIPlus,Data Engineer ||,4.1,Bengaluru,"₹ 10,25,086",Unknown,--,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.1,4,4,3.8,3.5
+SUPERDNA 3D LAB,Data Analyst,4,Chandigarh,"₹ 4,67,012",1 to 50 Employees,2017,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.1,3.5,4.2,4,4.2
+vMD tech assist Pvt LTD,Clinical Data Handling (DOCTORS ONLY),,Hyderābād,"₹ 60,000",,,,,,,,,,,
+UBS,Data Sourcing Analyst,3.9,Pune,"₹ 6,93,988",10000+ Employees,1862,Company - Public,Investment & Asset Management,Finance,$10+ billion (USD),3.6,3.5,3.9,3.5,3.8
+Sea and Beyond,Data Entry,5,Mumbai,"₹ 2,01,246",Unknown,--,Company - Private,--,--,Unknown / Non-Applicable,5,5,5,5,5
+JPMorgan Chase & Co,Data Operations Associate,4,Bengaluru,"₹ 3,56,835",10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+UnitedHealthcare,Data Analyst 2,3.6,Bengaluru,"₹ 6,63,325",10000+ Employees,--,Company - Public,Healthcare Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.6,3.5,3.7,3.3,3.6
+Honeywell,Data Scientist II,4,Bengaluru,"₹ 5,51,990",10000+ Employees,1885,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,3.9,4,3.8,3.8
+Nineleaps,Data Engineer,,Bengaluru,"₹ 25,00,000",,,,,,,,,,,
+BridgeLoyalty,Data Analyst Job,,Mumbai,"₹ 2,56,905",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,1,1,1,1,1
+"Magus Infotech India Pvt. Ltd.,",Trainee Big Data Consultant,,Mumbai,"₹ 8,00,000",,,,,,,,,,,
+BigShyft,Data Engineer,3.9,Gurgaon,"₹ 30,00,000",1 to 50 Employees,2018,Company - Private,HR Consulting,Human Resources & Staffing,Less than $1 million (USD),3.7,3.8,3.5,3.3,3.1
+Varuna Group,Data Entry Operator,,Raisen,"₹ 84,853",1001 to 5000 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,2.9,2.7,3.2,3.1,2.5
+Ambee,Data Scientist,,Bengaluru,"₹ 5,79,655",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+Deloitte,Senior Analyst - CMG - Demand Gen - Data Analysis,4.1,Hyderābād,"₹ 6,03,440",10000+ Employees,1850,Company - Private,Accounting & Tax,Finance,Unknown / Non-Applicable,4.1,4,4.1,3.8,3.3
+Novartis,Digital/Device Data Scientist,3.9,Hyderābād,"₹ 6,37,972",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,,,,,
+Ideal Education,Data Caller,,India,,501 to 1000 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,5,4,5,5,5
+Nangia & Co LLP,Data Analyst,,Chennai,"₹ 2,75,768",501 to 1000 Employees,1984,Private Practice / Firm,Accounting & Tax,Finance,$100 to $500 million (USD),3.5,3.4,3.3,3,3.5
+SmartHelio,Data Scientist,,Delhi,,1 to 50 Employees,--,Unknown,--,--,Unknown / Non-Applicable,4,3.5,4.5,5,3.5
+Dignitas Digital,Data Scientists,4.2,Delhi,,1 to 50 Employees,2011,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,4.2,3.5,4.1,4.3,3.9
+InfoKrafts,Data Engineer,5,Mumbai,"₹ 5,91,608",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,5,5,4,5,4
+Microsoft,Data and Applied Scientist II,4.2,Bengaluru,"₹ 6,07,947",10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4,4.1,4.2,3.8,4.1
+KPMG,Advisory Data Science Executive,3.8,Pune,"₹ 4,00,000",10000+ Employees,1987,Company - Private,Business Consulting,Management & Consulting,$2 to $5 billion (USD),4,3.3,3.7,3.5,3
+Hashmap,Data and Analytics Managing Consultant,3.9,Bengaluru,"₹ 7,94,695",10000+ Employees,1967,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.7,3.4,3.9,3.6,3.9
+Moody's,Data Specialist,3.9,Bengaluru,"₹ 8,06,258",10000+ Employees,1900,Company - Public,Research & Development,Management & Consulting,$2 to $5 billion (USD),3.4,3.4,3.8,3.4,3.7
+Delivery Centric Technologies,Python & Data Modelling,4,Bengaluru,"₹ 4,16,655",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.8,3.7,3.6,3.7,4.1
+ProductLife Group,Data Officer,3.4,Remote,,501 to 1000 Employees,1993,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$25 to $50 million (USD),3.3,2.8,3.1,3,3.6
+Amadeus,Data Engineer 2,4.1,Bengaluru,"₹ 6,00,000",10000+ Employees,1987,Company - Public,Information Technology Support Services,Information Technology,$2 to $5 billion (USD),3.9,3.8,4.2,3.6,4.3
+JPMorgan Chase & Co,Data Owner - Associate,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+ABB,Data Scientist,4,Bengaluru,"₹ 7,73,628",10000+ Employees,1883,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.7,3.6,4,3.5,3.9
+Apple,Cloud Data Engineer,4.3,Hyderābād,,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4,4.2,4.1,3.9,4
+iXie Gaming,Game Data Analyst,4.3,Bengaluru,"₹ 6,49,084",501 to 1000 Employees,2011,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.3,3.9,4.3,4.2,4.4
+JPMorgan Chase & Co,Know Your Customer - Client Data Analyst,4,Bengaluru,"₹ 6,57,267",10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+BlackRock,Analyst Invoice Processing (Data Operations),4,Gurgaon,"₹ 3,87,158",10000+ Employees,1988,Company - Public,Investment & Asset Management,Finance,$10+ billion (USD),3.9,3.7,3.9,3.6,3.6
+Thinkproject Holding GmbH,Data Scientist (m/f/d),3.3,Pune,"₹ 5,48,368",501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),3.5,3.5,3.6,3.1,4
+Genzeon India,Data Engineer,4.2,Pune,,201 to 500 Employees,2009,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.3,3.9,4,4.2,4.1
+Aptus Data LAbs,Business Analyst/ Data Analyst,4.1,Bengaluru,"₹ 4,40,688",51 to 200 Employees,2014,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.1,3.8,3.8,3.8,4.2
+JPMorgan Chase & Co,KYC Client Data Analyst,4,Hyderābād,"₹ 6,39,359",10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Victoria Realtors,Data Analyst,3.3,India,"₹ 3,50,000",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.7,3.7,2.6,3.3,2.3
+MetLife,Associate Data Scientist,3.9,Hyderābād,"₹ 3,89,954",10000+ Employees,1868,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),3.6,3.8,3.9,3.6,3.9
+INTEL,Data Analyst,4.1,Bengaluru,"₹ 9,41,300",10000+ Employees,1968,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4,3.9,4.2,3.6,4.1
+Pfizer,Statistical Data Scientist,4,Chennai,,10000+ Employees,1849,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.7,3.9,3.8,3.4,3.8
+ScaleIn,Data Scientist,,Bengaluru,"₹ 4,83,915",Unknown,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+MOLECULAR CONNECTIONS,Data Scientist,3.7,Remote,,1001 to 5000 Employees,2001,Company - Private,Healthcare Services & Hospitals,Healthcare,$25 to $50 million (USD),3.6,3.4,3.7,3.7,3.6
+Finquest,Data Engineer,3.2,Bengaluru,"₹ 7,50,000",201 to 500 Employees,2016,Company - Private,Investment & Asset Management,Finance,Unknown / Non-Applicable,2.9,2.7,3.1,3.1,3.1
+Meesho,Data Scientist II,3.5,Bengaluru,"₹ 10,24,695",1001 to 5000 Employees,2015,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.5,3.7,3.4,3.3,3.2
+Yellow Bites,Data Analystics,,India,"₹ 16,000",,,,,,,,,,,
+Toolyt,Data Analyst,4.8,Jaipur,"₹ 40,000",1 to 50 Employees,--,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.9,4.6,4.9,4.9,4.6
+CoStrategix,Member Data Analyst,3.9,Bengaluru,"₹ 3,87,298",51 to 200 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,3.5,3.9,3.7,3.6
+Emerson,Data Science Engineer 1,3.9,Pune,"₹ 7,94,109",10000+ Employees,1890,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.7,3.4,3.9,3.5,3.8
+ABB,Data Science & AI Specialist,4,Bengaluru,"₹ 7,73,628",10000+ Employees,1883,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.7,3.6,4,3.5,3.9
+Michelin,DATA - Scrum Master,4.1,Pune,,10000+ Employees,1889,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.6,4.1,3.5,3.8
+Thoucentric,Data Scientist,4.1,Bengaluru,"₹ 8,58,997",201 to 500 Employees,2015,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,3.8,3.5,4.5,4.1,4
+EPIC-INDIA,Data Analyst (DPIC),,Bhubaneshwar,"₹ 3,07,409",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+Sasken Technologies Limited,ENGINEER - DATA ANALYTICS,3.5,India,,1001 to 5000 Employees,1989,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$25 to $50 million (USD),3.2,3,3.6,3.2,3.4
+HP,Data Analyst-Finance,4.1,Bengaluru,"₹ 8,69,528",10000+ Employees,1939,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.7,3.7,4.3,3.8,4.2
+NatWest Group,Business Analyst,4.1,Bengaluru,"₹ 4,83,915",10000+ Employees,1727,Company - Public,Banking & Lending,Finance,$10+ billion (USD),3.7,3.5,4.2,3.7,4.3
+Akamai,Business Systems Analyst - Remote,4.6,Remote,,5001 to 10000 Employees,1998,Company - Public,Information Technology Support Services,Information Technology,$2 to $5 billion (USD),4.3,4.3,4.6,4.2,4.6
+4CRisk.ai Software,Data Quality Analyst,4,Bengaluru,,51 to 200 Employees,--,Contract,--,--,Unknown / Non-Applicable,4.3,4.3,4.3,4.8,3.8
+PayU,Data Analyst,3.7,Bengaluru,"₹ 3,80,225",1001 to 5000 Employees,2002,Company - Private,Internet & Web Services,Information Technology,$10+ billion (USD),3.6,3.6,3.6,3.4,3.6
+Konceive Development Center Pvt. Ltd.,Data Analyst,4.6,Panchkula,"₹ 35,000",1 to 50 Employees,--,Company - Private,Advertising & Public Relations,Media & Communication,Unknown / Non-Applicable,4.5,4.6,4.5,4.5,4.7
+InitiateFirst.,Data Scientist,4.7,Bengaluru,"₹ 5,79,655",51 to 200 Employees,--,Self-employed,--,--,Unknown / Non-Applicable,4.5,4.5,4.5,4.5,5
+LXT,Hindi & English - Data Entry Clerk (Transcriber),3.3,Hyderābād,"₹ 26,000",1 to 50 Employees,2010,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,2.8,3.4,3.2,3,3.3
+Cognizant Technology Solutions,Data Analyst,3.8,Mumbai,"₹ 3,82,568",10000+ Employees,1994,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.6,3.4,3.7,3.3,3.6
+Leaf workforcez,Data Engineer,,Remote,"₹ 20,00,000",,,,,,,,,,,
+prwatech technologies,Data Analyst,,India,"₹ 15,000",,,,,,,,,,,
+Helius Technologies,Data Scientist (Machine Learning),4.2,India,,501 to 1000 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4,4,4.3,4.1,4.3
+Dun & Bradstreet,"Analyst, Data Science (R-15410)",3.9,Chennai,"₹ 5,05,782",5001 to 10000 Employees,1841,Company - Public,Information Technology Support Services,Information Technology,$2 to $5 billion (USD),3.7,3.8,3.9,3.7,4.1
+Syneos Health Clinical,Senior Clinical Data Associate,3.8,Remote,,10000+ Employees,--,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,3.5,3.5,3.8,3.5,3.9
+Haleon,Data Analyst,3.8,Gurgaon,"₹ 5,36,656",10000+ Employees,2022,Company - Public,Health Care Products Manufacturing,Manufacturing,$10+ billion (USD),3.3,3.9,3.7,3.3,3.7
+Built-Right Digital,Digital Marketing Data Analyst,,Remote,,,,,,,,,,,,
+JPMorgan Chase & Co,Data Visualization Associate,4,Hyderābād,"₹ 7,42,967",10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Whitespace Global,Data Analyst,,Mumbai,,,,,,,,,,,,
+Tata Consultancy Services,Azure data engineer,3.8,Bengaluru,"₹ 4,94,975",10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+KPMG,Risk Advisory Data Analytics Executive,3.8,Mumbai,"₹ 5,09,902",10000+ Employees,1987,Company - Private,Business Consulting,Management & Consulting,$2 to $5 billion (USD),4,3.3,3.7,3.5,3
+Zinnov,Math- Data Analyst III,3.9,Bengaluru,"₹ 2,16,304",201 to 500 Employees,2002,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),3.8,3.6,3.8,3.7,3.3
+Wild Fox Business Advocacy,Junior Data Analyst,,Calcutta,"₹ 20,500",,,,,,,,,,,
+PayPal,Data Scientist,3.9,Bengaluru,"₹ 2,96,029",10000+ Employees,1998,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.5,3.9,3.9,3.3,4
+JPMorgan Chase & Co,Client Data Associate I,4,Bengaluru,"₹ 4,56,586",10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+MiQ Digital,Data Scientist II,3.6,Bengaluru,"₹ 1,43,000",501 to 1000 Employees,2010,Company - Private,Advertising & Public Relations,Media & Communication,Unknown / Non-Applicable,3.6,3.7,3.7,3.2,3.6
+Bosch Group,Data Scientists 2024,4.2,Coimbatore,"₹ 9,75,724",10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.2,3.7,4.1
+Sanfoundry,Junior Machine Learning Engineer - Fresher,,Noida,,1 to 50 Employees,--,Self-employed,Colleges & Universities,Education,Unknown / Non-Applicable,4.5,4.3,4.6,4.7,4.6
+AssetSoft,Junior SQL Developer,3.8,India,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.1,3.8,4,4.1,3.9
+The Scalers,Data Operations Associate,4.2,Bengaluru,,201 to 500 Employees,2014,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,3.9,4.1,4.1,4,4.2
+velan,Data Analyst,4.6,Coimbatore,"₹ 3,94,360",201 to 500 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.4,4.1,4.3,4.3,4.4
+Upsquare Technologies,Data Scientist,,India,,51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,5,4.4,5,5,5
+Mansun Consultancy Private Limited,Data Visualization Associate Intern,,Remote,"₹ 27,500",,,,,,,,,,,
+Insticator Inc,Data Analyst,4,Remote,,51 to 200 Employees,2012,Company - Private,Internet & Web Services,Information Technology,$25 to $50 million (USD),4.2,4,4.2,4,4.3
+Pricelabs,Data Scientist (Remote),,Pune,"₹ 6,48,701",51 to 200 Employees,2015,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,4.7,4.6,5,5,4.9
+Next Education,Data Analyst,3.7,Hyderābād,"₹ 8,30,016",1001 to 5000 Employees,2007,Company - Private,Primary & Secondary Schools,Education,$25 to $50 million (USD),3.6,3.5,3.4,3.3,3.3
+Tech27 Systems Ltd.,DATA SCIENTIST,,Calicut,"₹ 4,38,178",51 to 200 Employees,--,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,2.2,3.5,2.8,3.8
+Tata Consultancy Services,Salesforce Data Cloud (CDP),3.8,Bengaluru,,10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+"Ventra Health, Inc.",Data Analyst,3.3,India,,1001 to 5000 Employees,--,Company - Private,Healthcare Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.2,3,3.2,3,3.5
+smartData Enterprises,Python Data Engineer freelancer,,Remote,"₹ 90,000",,,,,,,,,,,
+Aspire SoftServ,AI/ML Developer - Data Scientist,,India,,51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+"Swastiks Masalas, Pickles And Food Products Private Limited",Data Analyst,,Bengaluru,"₹ 5,50,000",,,,,,,,,,,
+IDFC FIRST Bank,Data Scientist-Cx Analytics,4.1,Mumbai,"₹ 9,17,918",10000+ Employees,2018,Company - Public,Banking & Lending,Finance,Unknown / Non-Applicable,4.1,4.1,3.9,3.9,3.7
+CLOUDSUFI,Data Engineer,,Noida,"₹ 25,00,000",,,,,,,,,,,
+Affine,Data Scientist,4.8,Bengaluru,"₹ 4,59,752",1 to 50 Employees,2016,Private Practice / Firm,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.6,3.9,4.8,4.4,4.3
+JPMorgan Chase & Co,Quant Analytics -Data & Strategy Associate,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Opkey,Data Research Analyst- EST Shift,,Noida,"₹ 4,00,000",,,,,,,,,,,
+WPP,Data Analyst,3.6,Mumbai,"₹ 3,81,995",10000+ Employees,1985,Company - Public,Advertising & Public Relations,Media & Communication,$10+ billion (USD),3.3,3.3,3.5,3.1,3.3
+Tsaaro,Data Protection Consultant,,Remote,,51 to 200 Employees,2021,Company - Private,Security & Protective,Management & Consulting,Unknown / Non-Applicable,3.3,3,3,3,3
+Tecvesten Consulting,Junior Data Scientist,,Chennai,,,,,,,,,,,,
+Rojgar Group,Data Analytics,3.6,Remote,"₹ 6,50,000",1 to 50 Employees,--,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,2,3.6,2.3,2
+JPMorgan Chase & Co,Data Visualization Associate Senior,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Cognizant Technology Solutions,Process Executive - Data,3.8,Chennai,,10000+ Employees,1994,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.6,3.4,3.7,3.3,3.6
+Cargill,Analytics Data Process Analyst,4.1,Gurgaon,"₹ 7,17,577",10000+ Employees,1865,Company - Private,Crop Production,Agriculture,Unknown / Non-Applicable,3.8,3.9,4.1,3.6,3.8
+United Airlines,Data Scientist,3.9,Gurgaon,"₹ 1,10,000",10000+ Employees,1926,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),3.9,3.8,3.6,3.2,3.4
+Tata Consultancy Services,BI_Data Engineer,3.8,Chennai,"₹ 4,32,461",10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+Tata Elxsi,Data Analytics / Machine Learning Engineers,4.1,Bengaluru,"₹ 3,95,285",10000+ Employees,1989,Company - Public,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.1,3.4,4.2,3.7,4
+Medtek.AI,DATA SCIENCE INTERN,,Noida,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3,5,3,2,2
+Ideas to Impacts Innovations,"Data Annotator/Data Tagging - India, Ahmednagar",4.4,Maharashtra,,201 to 500 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.3,4.3,4.5
+Hernandez & Company,Data Analyst,4.5,India,,51 to 200 Employees,1992,Company - Private,Accounting & Tax,Finance,Unknown / Non-Applicable,4.3,3.8,4.5,4.3,4.4
+7N,Data & Analytics,3.9,Remote,,1001 to 5000 Employees,1965,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.4,3.8,4.3,3.8,4.5
+NICE Systems,Data Scientist,4.2,Pune,"₹ 8,30,662",5001 to 10000 Employees,1986,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),4.1,4,4.3,4,4.1
+Discover Dollar,Data Science Intern,4.8,Bengaluru,,1 to 50 Employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.6,4.4,5,4.8,4.6
+Infosys,AZURE Data Engineer,3.8,Bengaluru,"₹ 4,43,530",10000+ Employees,1981,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.8,3,4,3.5,3.7
+Google,"Business Data Scientist, Machine Learning Finance",4.4,Bengaluru,,10000+ Employees,1998,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.2,4.5,4.3,3.9,4.2
+Barclays,Data Scientist,4,Chennai,"₹ 8,41,487",10000+ Employees,1690,Company - Public,Banking & Lending,Finance,$10+ billion (USD),3.8,3.9,4,3.5,3.9
+Cognizant Technology Solutions,Process Executive - Data,3.8,Hyderābād,,10000+ Employees,1994,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.6,3.4,3.7,3.3,3.6
+Wibits Web Solutions,Data Entry Analyst,4.4,Nagercoil,"₹ 2,54,558",1 to 50 Employees,2014,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.3,3.8,4.6,4.6,5
+Oracle,Data Center Technician,3.8,Hyderābād,"₹ 7,65,953",10000+ Employees,1977,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),3.6,3.5,3.7,3.5,4
+Info Edge,Data Scientist,2.4,Noida,"₹ 4,69,574",51 to 200 Employees,2003,Company - Private,Advertising & Public Relations,Media & Communication,Unknown / Non-Applicable,2.8,2.7,3.3,2.3,2.4
+Eaton,Data Analyst,4.1,Pune,"₹ 5,29,906",10000+ Employees,1911,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.9,4.2,3.6,4
+Deloitte,GCP_Data_Engineer,4.1,Bengaluru,"₹ 6,35,423",10000+ Employees,1850,Company - Private,Accounting & Tax,Finance,Unknown / Non-Applicable,4.1,4,4.1,3.8,3.3
+William O’Neil India,Data Research Analyst,3.9,Bengaluru,"₹ 3,81,743",201 to 500 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4,3.8,4,4.1,4.3
+Smiths Group,Data Analyst,3.3,Bengaluru,"₹ 10,27,178",10000+ Employees,1851,Company - Public,Machinery Manufacturing,Manufacturing,$2 to $5 billion (USD),2.8,3,3.3,2.9,3.3
+Snapchat,"Data Scientist, India",3.9,Mumbai,"₹ 4,26,368",5001 to 10000 Employees,2011,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.3,3.8,3,3.6
+Valency International,Data Analyst,3,India,,1001 to 5000 Employees,2007,Company - Private,Wholesale,Retail & Wholesale,$100 to $500 million (USD),2.9,2.8,2.9,2.8,2.7
+Insider Biz,Data Scientist,,New Delhi,,,,,,,,,,,,
+"McAfee, LLC",Data Analyst with Marketing Analytics,4.1,Remote,,1001 to 5000 Employees,1987,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),3.8,3.9,4.2,3.8,4.1
+Galytix,Data Analyst,2.8,Gurgaon,"₹ 5,49,090",51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,2.9,2.8,2.7,2.7,2.6
+NetApp,"Data Analyst ( MS Excel, PowerBI, Tableau)",4.2,Bengaluru,"₹ 6,13,392",10000+ Employees,1992,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD),4,4.2,4.3,3.8,4.2
+Airtel India,Data Scientist,4.1,Gurgaon,₹ 200.00,10000+ Employees,1995,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),4,3.9,3.9,3.7,3.6
+AlignTech,Data Analyst,3.9,Hyderābād,"₹ 4,46,411",10000+ Employees,1997,Company - Public,Health Care Products Manufacturing,Manufacturing,$2 to $5 billion (USD),3.6,3.9,3.7,3.4,3.5
+ICICI Prudential Life Insurance,Data scientist,4.4,Mumbai,"₹ 5,35,110",Unknown,2001,Company - Public,Insurance Carriers,Insurance,Unknown / Non-Applicable,4.4,4.3,4.3,4.2,4.1
+Brave AI Lab,Data Science Intern,,India,,1 to 50 Employees,2020,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4.8,4.5,4.8,4.8,4.2
+Cybage,BI- Data Analytics,4,Gāndhīnagar,,5001 to 10000 Employees,--,Company - Public,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,3.6,4,3.7,3.9
+Philips,Data Analyst I,4,Bengaluru,,10000+ Employees,1891,Company - Public,Healthcare Services & Hospitals,Healthcare,$10+ billion (USD),3.8,3.7,4,3.5,4
+IronList,DATA SCIENTIST,,Ahmedabad,"₹ 4,24,264",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+Techneplus,Data Scientist - Bangalore/Noida/Hybrid,4.4,Bengaluru,"₹ 6,27,247",201 to 500 Employees,2017,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.5,4.2,4.6,4.6,4.4
+Schneider Electric,Data Analyst,4.2,Mumbai,"₹ 2,61,549",10000+ Employees,1836,Company - Public,Energy & Utilities,"Energy, Mining, Utilities",$10+ billion (USD),4.1,3.8,4.2,3.8,4
+Helius Technologies,Data Analyst (Power BI),4.2,India,,501 to 1000 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4,4,4.3,4.1,4.3
+scanO,Dental Data Annotator,3.6,India,,5001 to 10000 Employees,1984,Company - Public,Energy & Utilities,"Energy, Mining, Utilities",$5 to $10 billion (USD),3,3.6,3.5,2.9,3.7
+bp,Data Quality Analyst,4,Pune,"₹ 5,77,632",10000+ Employees,1908,Company - Public,Energy & Utilities,"Energy, Mining, Utilities",$10+ billion (USD),3.6,3.9,3.9,3.5,3.8
+Imurgence,Junior Data Science Team Member,4,India,,Unknown,--,Company - Private,--,--,Unknown / Non-Applicable,3,3,3,4,3
+Bharat Light & Power,Data Scientist,4,Bengaluru,"₹ 6,13,600",51 to 200 Employees,--,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.1,3.8,4,3.9,3.9
+JPMorgan Chase & Co,Reference Data Analyst - Digital Document Services,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Ignitho,Data Scientist Associate,4.3,Chennai,"₹ 8,30,662",51 to 200 Employees,2016,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.4,4.1,4.3,4.1,4.4
+SearchUrCollege,Data Scientist,4,Noida,"₹ 8,90,000",Unknown,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+V-Align Technologies,Data Analyst,,Bengaluru,"₹ 6,48,074",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.4,3.2,3.6,3.4,3.2
+Zappian,Data Analyst,,Bhopal,"₹ 6,08,360",Unknown,--,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.3,2.9,3.9,3.3,3.3
+Marktine Technology Solutions,DATA SCIENTIST,4.2,Remote,,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4,3.7,4.1,4.1,4.3
+Cognizant Technology Solutions,Process Specialist - Data,3.8,Hyderābād,"₹ 5,88,183",10000+ Employees,1994,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.6,3.4,3.7,3.3,3.6
+Ignitho,Data Scientist,4.3,Chennai,"₹ 8,30,662",51 to 200 Employees,2016,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.4,4.1,4.3,4.1,4.4
+Amagi,Applied Data Scientist,,Bengaluru,"₹ 6,32,456",201 to 500 Employees,2008,Company - Private,Broadcast Media,Media & Communication,Unknown / Non-Applicable,3.3,3.9,3.1,2.7,2.8
+KhataBook,Data Engineer - I,3.3,Bengaluru,"₹ 8,42,992",51 to 200 Employees,2018,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.1,3.6,3.2,2.7,3.4
+Vishal Infrastructure,Data Entry Operator,,Bengaluru,,,,,,,,,,,,
+Aditya Pharmacy,ASSISTANT DATA ANALYST,,Hyderābād,"₹ 5,14,686",501 to 1000 Employees,--,College / University,--,--,Unknown / Non-Applicable,,,,,
+TecStub,Data Analyst (Power BI),4.1,Ahmedabad,"₹ 1,61,194",51 to 200 Employees,2014,Company - Private,Software Development,Information Technology,Less than $1 million (USD),4.2,4.1,4.1,4.1,4.1
+AtkinsRéalis,Data Scientist,4,Gurgaon,"₹ 8,40,953",10000+ Employees,1911,Company - Public,Construction,"Construction, Repair & Maintenance Services",$5 to $10 billion (USD),3.8,3.7,3.9,3.5,3.9
+Microsoft,Data Analyst,4.2,Hyderābād,"₹ 3,94,497",10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4,4.1,4.2,3.8,4.1
+CoRover,Data Scientist,,Bengaluru,"₹ 5,79,655",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.8,4.6,4.7,4.8,4.6
+Airbus,Data Analyst & Developer,4.1,Bengaluru,"₹ 4,86,056",1001 to 5000 Employees,1970,Company - Public,Aerospace & Defence,Aerospace & Defence,$10+ billion (USD),3.9,3.9,4,3.5,4.2
+HP,Data Scientist 3,4.1,Bengaluru,"₹ 8,30,662",10000+ Employees,1939,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.7,3.7,4.3,3.8,4.2
+BP Energy,Data Quality Analyst,4,Pune,"₹ 5,77,632",10000+ Employees,1908,Company - Public,Energy & Utilities,"Energy, Mining, Utilities",$10+ billion (USD),3.6,3.9,3.9,3.5,3.8
+Prospus,Data Scraper,4.9,Remote,,51 to 200 Employees,2010,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.9,4.3,4.4,4.8,4.4
+Sandvik,Data Entry Operator,4.2,Udaipur,"₹ 4,15,692",10000+ Employees,1862,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,4,3.5,3.9
+"Medpace, Inc.",Data Coordinator - Core Laboratory,3.4,Thāne,"₹ 5,89,237",5001 to 10000 Employees,1992,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$2 to $5 billion (USD),3.3,3,3.2,3,3.2
+BNY Mellon,"Associate, Data Management & Quantitative Analysis I",3.6,India,,10000+ Employees,1784,Company - Public,Investment & Asset Management,Finance,$10+ billion (USD),3.4,3.4,3.6,3.2,3.6
+Zappian,Data Science Intern,,Bhopal,,Unknown,--,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.3,2.9,3.9,3.3,3.3
+Innovaccer,Data Ops Engineer-I,3.4,Noida,"₹ 9,49,971",1001 to 5000 Employees,2014,Company - Private,Healthcare Services & Hospitals,Healthcare,$25 to $50 million (USD),3.6,3.6,3.4,3.2,3.1
+Stylumia Intelligence Technology,Data Scraping Engineer (Intern),,Bengaluru,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.8,3.5,3.9,3.7,3.7
+Q-Dat IT Solutions,Data Analyst,5,India,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.8,4.5,4.5,5,4.5
+Genpro Research,Clinical Data Coordinator,,Thiruvananthapuram,"₹ 4,21,646",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.3,3.6,3.7,3.6,3.7
+A-1 Technology,Data Engineer,3.3,Remote,,201 to 500 Employees,2001,Company - Private,Computer Hardware Development,Information Technology,$25 to $50 million (USD),3.3,2.7,2.9,2.7,2.7
+NovoTree Minds Consulting,Data Engineer,5,Bengaluru,"₹ 5,48,635",1 to 50 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,5,4.9,4.9,4.9,5
+DeepTek Medical Imaging,Associate Data Scientist,,Pune,"₹ 5,29,150",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4,3.6,3.9,3.8,3.6
+Millennium,Data Download/Extraction Engineer (Commodities),4.7,Bengaluru,"₹ 7,43,371",5001 to 10000 Employees,1989,Company - Private,Investment & Asset Management,Finance,Unknown / Non-Applicable,4.8,4.8,5,5,5
+Flipkart,Data Engineer II,3.9,Bengaluru,"₹ 6,87,410",10000+ Employees,2007,Company - Private,Internet & Web Services,Information Technology,$5 to $10 billion (USD),3.9,3.6,3.8,3.5,3.4
+Infimetrics,Data Engineer(4+years),,Remote,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3,3,5,4,5
+MobileProgramming,Data Engineer,3.6,Remote,,1001 to 5000 Employees,2000,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.5,3.2,3.2,3.2,3.4
+IronList,Data Analyst,,Ahmedabad,"₹ 5,17,240",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+Merilytics,Analyst - Data Science,,Hyderābād,"₹ 4,57,463",201 to 500 Employees,2012,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,3.9,2.9,3.6,3.7,2.9
+Thrasio,Data Analyst II,3.1,India,,501 to 1000 Employees,2018,Company - Private,Other Retail Shops,Retail & Wholesale,Unknown / Non-Applicable,2.9,3,3.3,2.8,3.7
+CoinDCX,Data Engineer,4.1,Bengaluru,"₹ 3,85,400",201 to 500 Employees,2018,Company - Private,Investment & Asset Management,Finance,Unknown / Non-Applicable,4,4.1,4.1,3.8,4
+BNY Mellon,"Intermediate Representative, Data Management & Quantitative Analysis",3.6,India,,10000+ Employees,1784,Company - Public,Investment & Asset Management,Finance,$10+ billion (USD),3.4,3.4,3.6,3.2,3.6
+Tridiagonal Solutions,Data Science Intern,3.4,Pune,,51 to 200 Employees,--,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.4,2.8,3,2.9,3.2
+Iron Mountain,Data Analyst,3.7,Bengaluru,"₹ 6,14,010",10000+ Employees,1951,Company - Public,Information Technology Support Services,Information Technology,$2 to $5 billion (USD),3.3,3.5,3.5,3.3,3.6
+TalentSurabhi(TS),Clinical Data Manager,,Remote,,1 to 50 Employees,2020,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,,,,,
+AllianceBernstein,Data Analyst,3.8,Pune,,1001 to 5000 Employees,1967,Company - Public,Investment & Asset Management,Finance,$2 to $5 billion (USD),3.5,3.3,3.9,3.4,3.8
+Magic Infomedia,Data Analyst,,Delhi,,Unknown,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+The Stakeholder Company Pte. Ltd.,Customer Solutions Engineer - Data,4,Mumbai,"₹ 3,93,700",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.7,3.4,4.3,4,3.8
+Ford Motor Company,Data Engineer-HTHD,4,Chennai,"₹ 7,59,088",10000+ Employees,1903,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.7,3.9,3.9,3.4,3.9
+Visa,Data Scientist,4.1,Bengaluru,"₹ 3,24,000",10000+ Employees,1958,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.8,4,4.1,3.7,4
+Globussoft Technologies,Data Science,4.4,India,"₹ 3,60,000",201 to 500 Employees,2009,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),4.5,4,4.1,4.2,4.1
+Infosys,Big Data Developer,3.8,Bengaluru,"₹ 4,43,530",10000+ Employees,1981,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.8,3,4,3.5,3.7
+Empower,Sr Analyst Data Science,3.9,Bengaluru,"₹ 3,94,308",10000+ Employees,1907,Company - Private,Investment & Asset Management,Finance,$2 to $5 billion (USD),3.9,3.6,3.9,3.6,4
+Google,"Director, Data and Analytics",4.4,Bengaluru,,10000+ Employees,1998,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.2,4.5,4.3,3.9,4.2
+Zebra Technologies,"Data Scientist, II",4.1,Bengaluru,"₹ 7,20,134",5001 to 10000 Employees,1969,Company - Public,Computer Hardware Development,Information Technology,$2 to $5 billion (USD),3.8,3.8,4.1,3.8,4
+UST,Associate II - Data Analysis,4,Bengaluru,,,,,,,,,,,,
+ZS Associates,Advanced Data Science Associate,3.7,Gurgaon,"₹ 6,24,732",10000+ Employees,1983,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,3.9,4,3.9,3.5,2.4
+Myntra.com,Senior Manager - Data Analyst,4,Bengaluru,"₹ 7,42,967",1001 to 5000 Employees,2007,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.8,3.7,4,3.5,3.5
+Thoucentric,NLP Data Scientist,4.1,Bengaluru,"₹ 8,75,186",201 to 500 Employees,2015,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,3.8,3.5,4.5,4.1,4
+UBS,Reporting & Metrics Data Analyst,3.9,Pune,"₹ 8,06,241",10000+ Employees,1862,Company - Public,Investment & Asset Management,Finance,$10+ billion (USD),3.6,3.5,3.9,3.5,3.8
+StockX,Data Engineer,3.6,Bengaluru,"₹ 3,64,505",1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.3,3.6,3.6,3.1,3.4
+S&P Global,Carbon Markets Data Analyst,4.1,Gurgaon,"₹ 5,78,496",10000+ Employees,1860,Company - Public,Research & Development,Management & Consulting,$10+ billion (USD),3.8,3.8,4.2,3.8,4.2
+Kmart,Associate Data Engineer,3.4,India,,10000+ Employees,1899,Subsidiary or Business Segment,General Merchandise & Superstores,Retail & Wholesale,$5 to $10 billion (USD),3,2.9,3.2,3,3.3
+Innovaccer,Apprentice - Data Engineer,3.4,Noida,"₹ 9,49,526",1001 to 5000 Employees,2014,Company - Private,Healthcare Services & Hospitals,Healthcare,$25 to $50 million (USD),3.6,3.6,3.4,3.2,3.1
+PineBridge Investments,Data Scientist /Quantitative Equity Researcher_2,3.8,Mumbai,"₹ 9,87,787",501 to 1000 Employees,2010,Company - Private,Investment & Asset Management,Finance,$100 to $500 million (USD),3.7,3.2,3.8,3.8,4.3
+Tata Technologies,ALM Users - Data Mining,3.8,Bengaluru,"₹ 7,89,523",10000+ Employees,1989,Company - Private,Research & Development,Management & Consulting,$100 to $500 million (USD),3.6,3.4,3.8,3.4,3.8
+S&P Global,Data Transformation Analyst I,4.1,Gurgaon,"₹ 5,78,496",10000+ Employees,1860,Company - Public,Research & Development,Management & Consulting,$10+ billion (USD),3.8,3.8,4.2,3.8,4.2
+TVS Motor,Data Engineer II,3.9,India,,1001 to 5000 Employees,1978,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$100 to $500 million (USD),3.8,3.8,3.8,3.4,3.3
+Diverse Infotech,Data Science Analytics,,Gurgaon,"₹ 5,36,656",1 to 50 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4,3.8,3.8,3.9,3.6
+Dentsu Aegis Network,Data management Intern,3.6,Bengaluru,,5001 to 10000 Employees,--,Company - Public,Advertising & Public Relations,Media & Communication,Unknown / Non-Applicable,3.4,3.2,3.7,3.4,3.5
+Phygital Insights,Data Scientist,,Bengaluru,"₹ 5,79,655",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.4,4.6,4.5,4.6,4.5
+UST,Associate II - Data Science,4,Bengaluru,"₹ 4,25,000",10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.5,4,3.7,4
+Wesco,India-Bangalore: Data Scientist,3.7,Bengaluru,"₹ 6,98,711",10000+ Employees,1922,Company - Public,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.4,3.6,3.3,3.8
+Microsoft,Data Engineer II,4.2,Noida,"₹ 8,28,415",10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4,4.1,4.2,3.8,4.1
+Epsilon,Data Scientist 2,4.2,Bengaluru,"₹ 9,87,421",5001 to 10000 Employees,1969,Subsidiary or Business Segment,Advertising & Public Relations,Media & Communication,$2 to $5 billion (USD),3.9,3.8,4.2,3.8,4.1
+Infineon Technologies,Product Management Internship: Data Analysis,4.2,Bengaluru,,10000+ Employees,1999,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,4.1,3.7,4.2
+Tata Consultancy Services,GCP Data Engineer,3.8,Hyderābād,"₹ 5,16,307",10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+Agilite Global Solutions Company,Data QA/ETL Tester,4.7,India,,51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.5,4.3,4.3,4.4,4.3
+TechnoServe Inc.,Data Analyst Associate - PMA,4.1,Mumbai,"₹ 5,22,673",51 to 200 Employees,--,Company - Private,Grantmaking & Charitable Foundations,Non-profit & NGO,Unknown / Non-Applicable,4.1,3.6,4.3,4.1,4
+Legalwiz,Data Analyst,4.2,India,,1 to 50 Employees,2015,Company - Private,Legal,Legal,$10+ billion (USD),4.5,3.9,4.6,4.5,4.6
+Magna International Inc.,Data Scientist,3.8,Bengaluru,"₹ 8,10,555",10000+ Employees,1957,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.7,3.7,3.5,3.3,3.2
+RDAlabs,Data Analyst,,Remote,,51 to 200 Employees,2016,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.1,4.4,4.2,4,4.1
+Motorola Solutions,IT Business Analyst 2024 Internship,4.1,Bengaluru,,10000+ Employees,1928,Company - Public,Software Development,Information Technology,$5 to $10 billion (USD),3.9,3.8,4.1,3.8,4
+Enel,Data Management Analyst - Night Shift,4,Mumbai,"₹ 2,59,037",10000+ Employees,1962,Company - Private,Energy & Utilities,"Energy, Mining, Utilities",$10+ billion (USD),3.4,3.7,3.9,3.4,3.8
+BNP Paribas,Associate Level 1 / Associate - Referential Data,3.8,Mumbai,,10000+ Employees,2000,Company - Public,Banking & Lending,Finance,$10+ billion (USD),3.5,3.4,3.7,3.4,3.8
+Retransform,Data Scientist,4.1,Mumbai,"₹ 1,44,000",201 to 500 Employees,1998,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,4,3.4,4,4.1,4
+MRI Software,Data Analyst (Database Management),3.6,Bengaluru,"₹ 5,83,095",1001 to 5000 Employees,1971,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.6,3.4,3.8,3.4,3.9
+Blue Yonder,"Data Engineer (Python, SQL, Query Optimization, DBMS)",4.1,Bengaluru,"₹ 7,42,170",5001 to 10000 Employees,1985,Company - Private,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),3.9,3.9,4.2,3.7,4
+Aptus Data LAbs,Data Scientist,4.1,Bengaluru,"₹ 8,20,000",51 to 200 Employees,2014,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.1,3.8,3.8,3.8,4.2
+Facile Services,Data Research Trainee,3.9,Pune,"₹ 3,27,977",201 to 500 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.8,3.6,3.7,3.5,3.5
+LodgIQ,Data Scientist,,India,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.6,4.9,4.1,4,4.3
+Oswaalbooks,DATA Interpretation & Logical Reasoning - Proofreader - CAT Level,4.4,India,,51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.4,4.2,4.5,4.4,4.3
+Tax Genie,Data Analyst(BI),3.3,Mumbai,"₹ 2,20,661",51 to 200 Employees,2017,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.9,3.4,3.9,3.7,3.7
+Pratt & Whitney,Data Visualization Developer,3.8,Bengaluru,,10000+ Employees,1925,Subsidiary or Business Segment,Aerospace & Defence,Aerospace & Defence,$10+ billion (USD),3.7,3.6,3.5,3.2,3.5
+Yamaha Motor Solutions India Pvt.Ltd.,Data Scientist,4.1,Farīdābād,"₹ 5,26,300",1001 to 5000 Employees,1955,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.7,3.9,3.9,3.6,3.6
+Tata Consultancy Services,MS SQL Developer,3.8,Delhi,,10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+ADCI - Haryana,"Data Associate I (Italian), ML Data Ops",3.7,Gurgaon,"₹ 3,14,223",10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.7,3.8,3.6,3.3,3.2
+FrugalTesting,Data Entry Operator,4.8,Hyderābād,"₹ 1,85,903",51 to 200 Employees,2016,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4.8,4.6,4.8,4.8,4.7
+Rishi FIBC Solutions,Data Analysis,3.1,Vadodara,"₹ 4,97,861",501 to 1000 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.1,2.8,2.9,3.1,2.8
+Linxon,Data Analyst - HSE,4.3,Chennai,"₹ 3,87,298",501 to 1000 Employees,--,Company - Public,--,--,Unknown / Non-Applicable,4.2,4.1,4,4.1,3.9
+JPMorgan Chase & Co,Client Data Management and Data Quality Remediation - Operations Analyst,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+DecisionDatabases.com,Data Management Executive,4.5,India,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+The/Nudge,"Data Analyst, MoSJE",,Delhi,,1 to 50 Employees,--,Company - Public,--,--,Unknown / Non-Applicable,,,,,
+DataEconomy,Data Scientist,4.7,Hyderābād,"₹ 5,72,423",201 to 500 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.7,3.9,4.5,4.7,3.9
+United Airlines,Analyst - Data Scientist,3.9,Gurgaon,"₹ 1,10,000",10000+ Employees,1926,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),3.9,3.8,3.6,3.2,3.4
+CandidRoot Solutions,Web Data Researcher (0 to 2 Years),,Ahmedabad,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.8,3.8,4.6,3.8,4.4
+EIE Instruments,Data Analyst,3.9,Ahmedabad,"₹ 17,500",51 to 200 Employees,--,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.2,3.9,3.3,3.2,3.8
+Maruti Suzuki India Ltd,Data Analyst - R&D,3.9,Bengaluru,"₹ 8,24,049",10000+ Employees,--,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.7,4,3.4,3.3,3.1
+Tata Consultancy Services,"Big data- Pyspark, Hive",3.8,Chennai,"₹ 4,32,461",10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+Veniso Solutions,Data Scientist,,Hyderābād,"₹ 4,24,264",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4,3.6,4.3,4.3,4.7
+Optimum Data Analytics,Data Scientist,,Pune,"₹ 6,51,920",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4,4,4,4,4
+NovoTree Minds Consulting,Data Analyst,5,Bengaluru,"₹ 6,12,372",1 to 50 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,5,4.9,4.9,4.9,5
+Sandvik,Data Entry Operator,4.2,Udaipur,"₹ 4,15,692",10000+ Employees,1862,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,4,3.5,3.9
+"Medpace, Inc.",Data Coordinator - Core Laboratory,3.4,Thāne,"₹ 5,89,237",5001 to 10000 Employees,1992,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$2 to $5 billion (USD),3.3,3,3.2,3,3.2
+Tokopedia,Data Scientist - TopAds,4.3,Noida,"₹ 2,70,000",5001 to 10000 Employees,2009,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.9,3.9,4.4,3.8,4
+AXA,Assistant Scientist- Data Engineering,4,Bengaluru,"₹ 7,98,123",10000+ Employees,1985,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),3.6,3.6,3.9,3.5,3.9
+Tata Elxsi,Data Science Engineers,4.1,Bengaluru,"₹ 7,18,666",10000+ Employees,1989,Company - Public,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.1,3.4,4.2,3.7,4
+Dyuti Technologies,Data Entry Operator,3.3,Bengaluru,"₹ 1,58,291",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,2,2,2,1.5,2
+Barclays,VP Op Risk Rep & Data Analytics,4,Delhi,,10000+ Employees,1690,Company - Public,Banking & Lending,Finance,$10+ billion (USD),3.8,3.9,4,3.5,3.9
+Zycus,Data Analyst,3.4,Mumbai,"₹ 4,69,042",1001 to 5000 Employees,1998,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),3.4,2.9,3.1,2.9,3
+Petpooja,Data Scientist,4.5,Ahmedabad,"₹ 2,69,039",501 to 1000 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.3,4,4.4,4.2,4.2
+DAZN,Data Service Analyst,2.8,Hyderābād,"₹ 2,27,684",1001 to 5000 Employees,2015,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,2.7,2.9,2.6,2.3,3.1
+RARR Technologies Pvt Ltd,Data Governance Admin,4.7,Remote,"₹ 26,00,000",1 to 50 Employees,2018,Company - Private,Software Development,Information Technology,Less than $1 million (USD),4.7,4.5,4.9,4.9,4.8
+PayU,Data Scientist,3.7,Bengaluru,"₹ 6,06,842",1001 to 5000 Employees,2002,Company - Private,Internet & Web Services,Information Technology,$10+ billion (USD),3.6,3.6,3.6,3.4,3.6
+Algoscale,Data Scientist,4,Noida,"₹ 6,92,820",51 to 200 Employees,2014,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,3.5,3.9,3.9,4
+G7 Teleservices,Data Entry Operator,,Bengaluru,"₹ 1,58,291",201 to 500 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.9,3.4,2.8,3.9,2.8
+JPMorgan Chase & Co,Data Governance - Analyst,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Xitadel,Data Science,3.9,Bengaluru,"₹ 4,83,915",1 to 50 Employees,--,Company - Private,--,--,$5 to $25 million (USD),3.8,3.1,3.6,3.5,3.7
+Retransform,Web Research/ Data Entry Operator,4.1,Mumbai,"₹ 2,26,941",201 to 500 Employees,1998,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,4,3.4,4,4.1,4
+APA Engineering,Data Analyst,,Chennai,"₹ 3,87,298",1 to 50 Employees,--,Company - Private,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",Less than $1 million (USD),3.2,3.1,3.3,3,3.2
+NISC Export Services,Data Mapping,3.6,Hyderābād,,201 to 500 Employees,--,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3,3.1,3.1,3.4,3.8
+Harjai Computers,Data Analyst - HCPL3303,4.4,India,,501 to 1000 Employees,1995,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.3,4.1,4.1,4.2,4.1
+Uplers,Business Data Analyst | QA - WFH,4.2,Remote,"₹ 1,59,500",501 to 1000 Employees,2012,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4,3.9,4.3,3.9,4.2
+Zehntech,Data Engineer,3.1,Indore,"₹ 3,84,758",201 to 500 Employees,2013,Company - Private,Software Development,Information Technology,$1 to $5 million (USD),3.1,3.2,3.4,2.9,2.8
+Transaction Network Services,Data Scientist,3.4,Noida,"₹ 4,74,342",501 to 1000 Employees,--,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.2,3.3,3.3,2.9,3.4
+CloudAge Global Services,Data Scientists/ML Engineers,,Pune,"₹ 5,29,150",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.7,4.6,4.9,4.8,5
+JPMorgan Chase & Co,Client Reporting – Data Feeds - Operations Analyst,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Retisio,Junior Data Engineer,,Bengaluru,"₹ 5,67,450",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+Wesco,India-Bangalore: Analyst - Data Governance,3.7,Bengaluru,"₹ 8,36,660",10000+ Employees,1922,Company - Public,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.4,3.6,3.3,3.8
+Zapcom Group,Data Analyst,3.8,India,,51 to 200 Employees,2014,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.9,3.9,3.6,3.7,3.7
+Zazz,Data Scientist,,Hyderābād,"₹ 15,00,000",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+Energy Exemplar,Data Engineer,4.4,Pune,"₹ 7,97,931",201 to 500 Employees,1999,Company - Private,Energy & Utilities,"Energy, Mining, Utilities",Unknown / Non-Applicable,4.3,4.1,4.5,4.3,4.5
+Data PlatformExperts,Azure Data Engineer,,Remote,"₹ 10,00,000",,,,,,,,,,,
+Acies Global,Data Engineer - SSIS,4.6,Chennai,"₹ 9,50,000",51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.5,4.3,4.6,4.7,4.3
+Recruise,1700_ Data and Market Research Analyst,4.6,Bengaluru,"₹ 3,13,623",51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.6,4.1,4.7,4.6,4.5
+Mazenet Solution,Talend Data Integration/ETL Specialist,4.2,India,"₹ 6,50,000",51 to 200 Employees,2001,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,3.7,3.8,3.8,3.8
+Shortjobs India,Data Scientist,,Bengaluru,"₹ 8,00,000",,,,,,,,,,,
+JP infotech,Big Data Engineer,3.9,Remote,"₹ 17,00,000",1 to 50 Employees,--,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,5,4.2,4.7,4.2,4.2
+RD Digital Solutions,Senior Data Engineer,4.3,Remote,"₹ 35,00,000",1 to 50 Employees,--,Company - Public,--,--,$1 to $5 million (USD),4.1,3.5,4.1,3.5,4.4
+Shreejan Associates,Data Creation Specialist,4,Bengaluru,"₹ 4,80,000",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,4,4,4,4,4
+EY,Data Analyst,3.8,Hyderābād,"₹ 17,50,000",Unknown,--,Unknown,--,--,Unknown / Non-Applicable,,,,,
+Global Employees,Azure Data Engineer,,Remote,"₹ 12,50,000",,,,,,,,,,,
+Xplor,Power Bi - Data-warehouse Administrator,3.4,Pune,"₹ 6,11,726",1001 to 5000 Employees,1994,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,3.2,3.4,3.2,2.8,3.6
+Fiddler AI,"SDET - (Data Science, AI/ML background)",,Bengaluru,"₹ 3,71,806",51 to 200 Employees,2018,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),4.7,4.2,4.7,4.3,4.4
+Anion Healthcare BPO,Data Analyst,4.2,India,,1 to 50 Employees,1999,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.1,4.1,4.1,4.2,3.9
+"Mohr Partners, Inc.",Research Analyst,3.7,Remote,,51 to 200 Employees,1986,Company - Private,Real Estate,Real Estate,$5 to $25 million (USD),3.2,3.4,3.2,3.3,3.2
+Future Link Consultants,Data Modeler/Data Analyst,4.5,Gurgaon,"₹ 17,50,000",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.1,3.6,3.8,3.9,3.7
+Expressare Technologies Pvt Ltd,Data Quality Analyst,,Thiruvananthapuram,"₹ 2,00,000",,,,,,,,,,,
+1myPOS Information Technology,SQL Developer,,Remote,,,,,,,,,,,,
+Cheri angel HR Consulting,Junior Data Scientist,,Remote,,,,,,,,,,,,
+iDataLytics,Internship in Data science,,Eranakulam,,,,,,,,,,,,
+Wisdom college for creativity & design,Data Science Trainee,,Ghaziabad,"₹ 17,500",,,,,,,,,,,
+Forbes Advisor,Data Research Analyst,3.6,Mumbai,"₹ 4,17,490",201 to 500 Employees,1917,Company - Private,Publishing,Media & Communication,Unknown / Non-Applicable,3.2,3.2,3.4,3.4,3.7
+Servilint Technologies,Data Scientist,,Mumbai,"₹ 10,25,000",,,,,,,,,,,
+Razor Group GmbH,Data Engineer,3.1,Gurgaon,"₹ 5,87,678",501 to 1000 Employees,2020,Company - Private,Other Retail Shops,Retail & Wholesale,$100 to $500 million (USD),3.3,3.2,2.8,2.8,2.9
+"SmarTek21, LLC",Data Engineer,3.6,Remote,,501 to 1000 Employees,2006,Company - Private,Computer Hardware Development,Information Technology,$25 to $50 million (USD),3.2,3.3,3.1,3,3.4
+Pinnacle Employment,Data Engineer,,Gurgaon,"₹ 30,00,000",,,,,,,,,,,
+High Fly Dream,Computer & Data Entry Executive,,Delhi,"₹ 23,000",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+Xperthunt Systems,Data Engineer,,Bengaluru,"₹ 14,34,611",,,,,,,,,,,
+Konexions Back Office Services Pvt Ltd,Data Analyst,,Gurgaon,"₹ 2,70,000",,,,,,,,,,,
+CapB InfoteK,Remote nCode GlyphWorks enginnering Test Data Analyst,1,Bengaluru,"₹ 6,19,793",Unknown,--,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,1,1,1,1,1
+Ziniosedge,Data Engineer,,India,,51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.6,3.4,4,3.5,3.7
+GraspCorn Software Solution Pvt. Ltd.,Data Analyst,,India,"₹ 40,000",,,,,,,,,,,
+Idexcel,Data Engineer,4.3,Pune,"₹ 8,16,866",501 to 1000 Employees,1998,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,3.6,3.9,4.1,4.1
+Excelr Solutions,Data Analyst Trainer,3.8,Hyderābād,"₹ 7,50,000",1 to 50 Employees,--,Company - Public,--,--,Unknown / Non-Applicable,4,4.1,3.8,3.9,3.8
+Ebizon,EbizON|| Data Scientist || Dehradun,4.3,India,,51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.4,4,4.1,4,4.2
+Exusia,IBM Infosphere Data Quality Lead / Senior Developers,4,Remote,"₹ 21,80,762",201 to 500 Employees,2012,Company - Private,Information Technology Support Services,Information Technology,$25 to $50 million (USD),4.1,4.1,4.1,4.1,4.1
+Arroyo Consulting,Data Security Specialist,,Remote,"₹ 1,08,321",,,,,,,,,,,
+orchid furnishings llp,Data Analyst,,Pune,"₹ 30,000",,,,,,,,,,,
+Ericson Insurance TPA Pvt Ltd,Hiring Data Analytical,,India,"₹ 37,500",,,,,,,,,,,
+Oracuz InfoTech Pvt Ltd.,Data Science Intern,,India,,,,,,,,,,,,
+Alphanet,Data Science Engineer / Sr Data Science Engineer,4.6,Remote,,201 to 500 Employees,2001,Company - Private,Information Technology Support Services,Information Technology,$25 to $50 million (USD),4.5,4.3,4.4,4.5,4.5
+Varite India Pvt Ltd,Data Quality Analyst,,Remote,"₹ 3,65,105",,,,,,,,,,,
+CGI,Big Data Engineer,3.8,Bengaluru,"₹ 6,42,067",10000+ Employees,1976,Company - Public,Business Consulting,Management & Consulting,$10+ billion (USD),3.7,3.3,3.9,3.6,3.9
+Anika Technologies,Data Analyst with strong SQL,4.1,India,,Unknown,--,Company - Private,--,--,Unknown / Non-Applicable,4.1,3.6,4.3,4.1,4
+EP Soft Pvt. Ltd.,Data Scientist,,Jaipur,"₹ 5,75,000",,,,,,,,,,,
+Codnext IT Services,Data Scientist,,Bengaluru,"₹ 12,00,000",,,,,,,,,,,
+expert global solutions Pvt. Ltd,Data Annotator,3.2,Coimbatore,"₹ 2,46,274",10000+ Employees,1999,Company - Private,HR Consulting,Human Resources & Staffing,$2 to $5 billion (USD),3.2,2.9,3.1,2.9,3
+Virtual Reality System,Data Analytics Intern,,Gāndhīnagar,"₹ 5,000",,,,,,,,,,,
+ONX,ZOHO Data Analyst,2.8,Bengaluru,"₹ 3,16,571",Unknown,--,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,2.7,3,2.7,2.7,2.7
+Taiyo.Ai,Data-Mesh Engineer,,Remote,"₹ 6,05,792",,,,,,,,,,,
+Chandan Tech Solutions Pvt ltd,Data Entry Executive,,Pune,"₹ 23,000",,,,,,,,,,,
+Navig8 Group,Data Scientist ( Mumbai),,Mumbai,,201 to 500 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.1,4,3.3,3.2,3.7
+Universal Electronics Inc.,Software Engineer (Data Science),3.5,Bengaluru,"₹ 5,28,092",201 to 500 Employees,--,Company - Public,Electronics Manufacturing,Manufacturing,$25 to $50 million (USD),3.5,2.8,3,3,3.6
+Horizon Corp,Data Engineer,,India,"₹ 16,50,000",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,,,,,
+PepsiCo,Data Science Analyst,4,Hyderābād,"₹ 9,68,061",10000+ Employees,1965,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.6,3.5
+HiringGo,Azure Data Engineer,,Remote,"₹ 11,50,000",,,,,,,,,,,
+Robas Research,Market Research Data Analyst,4.1,Bengaluru,"₹ 5,09,902",1 to 50 Employees,2012,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.1,3.4,3.9,3.9,4
+Naviga Inc.,Data Scientist,3.7,Delhi,,501 to 1000 Employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.4,3.7,3.6,3.6,3.9
+Authenu,Statistician/Data Analyst,,Bengaluru,,,,,,,,,,,,
+Vecmocon Technologies,Data Analytics Intern,,Delhi,"₹ 22,500",,,,,,,,,,,
+Splore,Software Engineer - Data & Python,,Bengaluru,"₹ 7,03,562",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.7,4.3,4.3,4.7,5
+"Medpace, Inc.",Data Coordinator - Core Laboratory,3.4,Thāne,"₹ 5,89,237",5001 to 10000 Employees,1992,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$2 to $5 billion (USD),3.3,3,3.2,3,3.2
+Manupatra Information Solutions Pvt. Ltd.,Data Entry Operator (DEO),4,Noida,"₹ 12,500",51 to 200 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.9,3.8,3.8,3.9,4
+AVG LOGISTICS LIMITED,Data Analyst,,Delhi,"₹ 17,500",,,,,,,,,,,
+High Fly Dream,Data Entry Executive,,Delhi,"₹ 29,500",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+GRS Fantasy park,Senior Data Analyst,,India,"₹ 32,500",,,,,,,,,,,
+Good Business Lab,Data Associate,4.7,India,"₹ 9,25,000",51 to 200 Employees,2017,Non-profit Organisation,"Civic, Welfare & Social Services",Non-profit & NGO,Unknown / Non-Applicable,4.5,4.4,4.8,4.6,4.5
+Miles Ahead 91 Consultants,Data Engineer,,Remote,"₹ 17,50,000",,,,,,,,,,,
+Travelopia,Business Analyst,4.1,Bengaluru,"₹ 4,49,374",1001 to 5000 Employees,2016,Company - Private,Travel Agencies,Hotel & Travel Accommodation,$25 to $50 million (USD),3.7,3.8,4,3.7,4.1
+TransPerfect,Data Contributor - Remote in India,3.1,Remote,,1001 to 5000 Employees,1992,Company - Private,Business Consulting,Management & Consulting,$500 million to $1 billion (USD),2.9,2.5,3,2.8,3
+American Express Global Business Travel,Meeting Support- Data Admin & Reconciliation Specialist,3.9,India,,10000+ Employees,1915,Company - Public,Travel Agencies,Hotel & Travel Accommodation,Unknown / Non-Applicable,3.7,3.6,4,3.7,3.9
+Nielsen,"Big Data Engineers (Airflow, Python, Spark)",3.6,Bengaluru,"₹ 4,07,272",10000+ Employees,1923,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD),3.2,3.2,3.7,3.1,3.8
+Zeitview,Lead - ML data labelling,3.2,Bengaluru,"₹ 4,44,082",1 to 50 Employees,2014,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3,2.7,3.3,3.1,3.6
+Xplor,Data Analytics Engineer,3.4,Pune,"₹ 6,11,726",1001 to 5000 Employees,1994,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,3.2,3.4,3.2,2.8,3.6
+Ccube,Azure Cloud Data Architect,,Remote,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+HR CLICK,Data Analyst,,India,"₹ 17,500",,,,,,,,,,,
+SociallyGood,Customer Data Executive,,Bengaluru,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,1.4,1.4,1.4,1.4,1.8
+JPMorgan Chase & Co,Client Data Analyst,4,Hyderābād,"₹ 6,40,045",10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Deliveroo,Data Scientist - Consumer,3.6,Hyderābād,"₹ 6,45,179",1001 to 5000 Employees,2013,Company - Public,Internet & Web Services,Information Technology,$5 to $10 billion (USD),3.1,3.3,3.6,3.1,3.8
+First Advantage,Associate Business Data Analyst – (Metrics & Analytics) - Bangalore,3.5,Bengaluru,"₹ 2,83,387",1001 to 5000 Employees,2003,Company - Public,HR Consulting,Human Resources & Staffing,$100 to $500 million (USD),3.3,3.3,3.5,3.2,3.4
+Evolvision Technologies,Data Scientist,,Gāndhīnagar,"₹ 55,000",,,,,,,,,,,
+Freedom Property Investors,Data Engineer - Southeast Asia,,Remote,,51 to 200 Employees,2011,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,3.8,3.7,3.6,3.5,3.6
+Log9 Materials,Intern-Data Engineer,3.9,Bengaluru,,51 to 200 Employees,2015,Company - Private,Electronics Manufacturing,Manufacturing,Unknown / Non-Applicable,4.1,3.6,4.1,3.6,3.8
+Zoof software Solutions,Data Engineer with Alation,4.7,Remote,"₹ 1,00,000",51 to 200 Employees,2014,Company - Private,Software Development,Information Technology,$1 to $5 million (USD),4.5,3.8,4.6,4.4,3.6
+Standard Chartered,Big Data Engineer,3.9,Bengaluru,"₹ 7,12,395",10000+ Employees,1969,Company - Public,Banking & Lending,Finance,$100 to $500 million (USD),3.7,3.7,3.9,3.5,3.7
+SyngyMaxim Solutions Pvt Ltd,Data Engineer,4.7,Hyderābād,"₹ 1,50,000",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.7,3.7,4.7,4.4,4.4
+PayU,Business Analyst - Data Science,3.7,Bengaluru,"₹ 6,14,817",1001 to 5000 Employees,2002,Company - Private,Internet & Web Services,Information Technology,$10+ billion (USD),3.6,3.6,3.6,3.4,3.6
+Thermo Fisher Scientific,Clin Data Assoc II,3.6,Remote,,10000+ Employees,1902,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.4,3.4,3.5,3.1,3.4
+SnD Confrere,Jr. Research Analyst (WFH/Remote),,Remote,"₹ 10,000",,,,,,,,,,,
+Thinkitive Technologies Pvt Ltd,Data Scientist,3.9,India,,201 to 500 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$25 to $50 million (USD),4.1,3.7,3.9,3.8,3.5
+JPMorgan Chase & Co,Data Science Senior Associate,4,Bengaluru,"₹ 5,78,507",10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Sandvik,Data Entry Operator,4.2,Udaipur,"₹ 4,15,692",10000+ Employees,1862,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,4,3.5,3.9
+Inevolution,Power BI Analyst,,Remote,"₹ 4,50,000",,,,,,,,,,,
+AlphaSense,Data Annotation Specialist,3.8,Mumbai,"₹ 4,64,758",1001 to 5000 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),3.7,4,3.7,3.4,3.6
+Multicloud4u Technologies,Data Scientist,,Pune,"₹ 25,00,000",,,,,,,,,,,
+Hub Work,Data Scientist,,Chennai,"₹ 22,82,442",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,,,,,
+Elrevgen health care pvt Ltd,Data Analyst,,Tiruppūr,"₹ 22,500",,,,,,,,,,,
+URBX Knowledge Park LLP,Data Analyst,,Cochin,"₹ 25,000",,,,,,,,,,,
+Anblicks,Data Scientist,3.8,Hyderābād,"₹ 6,87,113",501 to 1000 Employees,2004,Company - Private,Information Technology Support Services,Information Technology,$25 to $50 million (USD),3.8,3.6,3.5,3.5,3.4
+Genpact,SA-Data Quality Analyst.,4,Hyderābād,"₹ 5,65,685",10000+ Employees,1997,Company - Public,Information Technology Support Services,Information Technology,$2 to $5 billion (USD),3.9,3.3,4,3.8,4
+Shyena Tech Yarns Pvt Ltd,Data Engineer - Trainee,3.8,Pune,"₹ 5,000",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.9,3,3.6,3.8,3
+Tata Consultancy Services,Treasure Data Developer,3.8,Hyderābād,"₹ 5,12,355",10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+Hitachi Solutions,Data Engineer,4.4,Bengaluru,"₹ 9,21,954",1001 to 5000 Employees,2004,Company - Private,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.5,4.5,4.4,4.2,4.2
+Aspire Proptech,Business Operations Analyst (CRM and Data Focus),,Bengaluru,"₹ 4,51,366",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,,,,,
+Alcon,Test Automation Engineer – DH Data analytics,3.8,Bengaluru,"₹ 4,23,074",10000+ Employees,1945,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$5 to $10 billion (USD),3.4,3.9,3.6,3.3,3.5
+JVTekPro,Azure Senior Data engineer,,Remote,"₹ 35,00,000",,,,,,,,,,,
+TECH NEXT,Azure Data Engineer,,Remote,"₹ 11,55,605",,,,,,,,,,,
+NexaQ,Data Analyst with Python,,Remote,,Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,,,,,
+Forbes Advisor,DIGITAL PUBLIC RELATIONS - DPR DATA INTERN (Mumbai),3.6,Mumbai,,201 to 500 Employees,1917,Company - Private,Publishing,Media & Communication,Unknown / Non-Applicable,3.2,3.2,3.4,3.4,3.7
+Olibr,Data Analyst - ETL,,Chennai,"₹ 12,50,000",,,,,,,,,,,
+Auraa Solutions,Senior Data Analyst,,Remote,"₹ 1,60,000",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,,,,,
+Tata Insights and Quants,Data Scientist,3.8,Jamshedpur,"₹ 10,00,000",Unknown,--,Company - Private,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.7,3.5,3.7,3.4,3.5
+Milestone,Data Engineer,3.9,Hyderābād,"₹ 2,90,241",1001 to 5000 Employees,1997,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.4,3.5,3.7,3.5,3.9
+MMStartup,Data Analyst,,Chennai,"₹ 1,50,000",,,,,,,,,,,
+WORLD CLASS SERVICES LTD,Data Entry Operator,,Bengaluru,"₹ 24,000",,,,,,,,,,,
+Zobello,Data Analyst AssociateZobello,2,Delhi,,Unknown,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+Prescience,Junior Data Scientist,,Bengaluru,"₹ 6,29,588",51 to 200 Employees,2017,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.4,4.2,4.7,4.3,4.2
+Reserve Bank Information Technology Private Limited (ReBIT),Data Engineer,3.4,India,,51 to 200 Employees,--,Contract,--,--,Unknown / Non-Applicable,3.3,3.5,3.4,2.9,4
+YMTS India,Data Scientist (ML & DL),4.1,Tirupati,"₹ 2,25,000",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.1,3.8,4.3,3.9,4
+Moody's,Financial Data Analyst,3.9,Bengaluru,"₹ 5,23,832",10000+ Employees,1900,Company - Public,Research & Development,Management & Consulting,$2 to $5 billion (USD),3.4,3.4,3.8,3.4,3.7
+Moody's,Financial Data Associate-MSC,3.9,Gurgaon,"₹ 5,24,991",10000+ Employees,1900,Company - Public,Research & Development,Management & Consulting,$2 to $5 billion (USD),3.4,3.4,3.8,3.4,3.7
+XenonStack,Data Analyst,3.3,Mohali,"₹ 5,13,079",51 to 200 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),3.3,3,3.1,3,2.8
+ORIENTAL EXPORT CORPORATION,Data Entry ERP,,Jāmnagar,"₹ 12,500",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,,,,,
+McBird Technologies Pvt Ltd,Power BI Developer,5,Remote,,51 to 200 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,5,4.7,4.8,5,5
+Spice Money,Data Engineer,3.9,Mohali,"₹ 6,87,235",201 to 500 Employees,--,Company - Private,Financial Transaction Processing,Finance,Unknown / Non-Applicable,3.9,3.8,4.1,3.7,3.6
+Live Building Systems,Data Analyst,,Amritsar,"₹ 37,500",,,,,,,,,,,
+Wisdom InfoTech.,Informatica Data Quality Developer,,Remote,"₹ 21,00,000",,,,,,,,,,,
+MyYogaTeacher,Data Analyst,,Bengaluru,"₹ 4,75,188",51 to 200 Employees,2019,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,3.2,3.5,3.5,3.5,3.2
+One Sigma Technologies,Data Analyst Fraud,3.7,Bengaluru,"₹ 7,77,892",501 to 1000 Employees,2015,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,3.9,3.7,3.6,3.6
+Perfex Technologies,Data Base developer,4.4,Hyderābād,"₹ 4,49,258",201 to 500 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.4,3.9,4.4,3.9,4.4
+In Time Tec,Data Engineer,4,Bengaluru,"₹ 5,79,719",501 to 1000 Employees,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4,3.5,4.1,3.9,3.7
+Wildfox Business Advocacy,Junior Data Analyst,,Calcutta,"₹ 20,500",,,,,,,,,,,
+Lilly,Clinical Data Analyst,4.1,Bengaluru,,10000+ Employees,1876,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.7,3.9,4,3.6,3.9
+Sitetracker,Data Research Analyst,4.1,Bengaluru,"₹ 5,47,723",201 to 500 Employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.9,4.2,4.1,3.9,4.1
+24/7 DCT,Power BI Developer- Project Based (India),,Remote,,,,,,,,,,,,
+Brandmuscle,Data Scientist,3.1,Bengaluru,"₹ 5,67,601",501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),3,2.8,2.9,2.6,3.5
+Macgence Technologies (OPC) PVT LTD,Internship (Data Annotation),4.8,Noida,"₹ 8,000",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,5,5,5,5,5
+Data Semantics,Data Modeler,4,Bengaluru,"₹ 5,26,716",51 to 200 Employees,2012,Company - Private,Information Technology Support Services,Information Technology,$2 to $5 billion (USD),4.1,3.5,3.9,3.8,3.9
+Avaali Solutions,Data Analyst,4.5,Bengaluru,"₹ 7,45,359",51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,4,4.4,4.2,4.3
+TARGET,Item Data Analyst,4.3,Bengaluru,"₹ 8,21,380",1001 to 5000 Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,Unknown / Non-Applicable,4.1,4,4.6,4,4.4
+Victoria's Secret,Data Scientist,3.5,Bengaluru,"₹ 2,66,222",10000+ Employees,2021,Company - Public,"Department, Clothing & Shoe Stores",Retail & Wholesale,$5 to $10 billion (USD),3.2,3.3,3.4,3.1,3.1
+PayU,Data Platform Engineer,3.7,Bengaluru,"₹ 17,00,000",1001 to 5000 Employees,2002,Company - Private,Internet & Web Services,Information Technology,$10+ billion (USD),3.6,3.6,3.6,3.4,3.6
+EVRY India,Data Quality Analyst,3.9,Bengaluru,"₹ 5,83,095",1001 to 5000 Employees,1994,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.9,3.7,4.1
+Acumont Solutions Private Limited,Azure data factory developer,4.5,Remote,"₹ 12,50,000",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.4,4.5,4.7,4.5,4.7
+Tech mahindra,Data Scientist,3.6,Hyderābād,"₹ 5,09,190",10000+ Employees,1986,Company - Public,Information Technology Support Services,Information Technology,$5 to $10 billion (USD),3.5,3,3.5,3.2,3.5
+D.S Solution Pvt Ltd.,Data Entry Executive,,Bengaluru,"₹ 18,111",,,,,,,,,,,
+Vega Intellisoft,Data Scientist,4.5,Bengaluru,"₹ 6,06,630",1 to 50 Employees,--,Private Practice / Firm,Business Consulting,Management & Consulting,Unknown / Non-Applicable,4.4,4.3,4.2,4.4,4.5
+Tata Consultancy Services,Salesforce Data Cloud,3.8,Pune,,10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+Omnicell,HR Technology & Data Analytics Analyst (Remote),3.2,Remote,,1001 to 5000 Employees,1992,Company - Public,Healthcare Services & Hospitals,Healthcare,$2 to $5 billion (USD),3,3.5,3.2,2.8,3.2
+SUPERDNA 3D LAB,Data Miner,4,Chandigarh,"₹ 4,45,300",1 to 50 Employees,2017,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.1,3.5,4.2,4,4.2
+Haleon,Data Engineer,3.8,Bengaluru,"₹ 6,45,174",10000+ Employees,2022,Company - Public,Health Care Products Manufacturing,Manufacturing,$10+ billion (USD),3.3,3.9,3.7,3.3,3.7
+Navayuga Infotech,Data Annotator,3.9,Hyderābād,"₹ 1,50,000",51 to 200 Employees,1997,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.9,3.3,3.7,3.7,3.6
+H&MV Engineering,Data Analyst,4.3,India,,201 to 500 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4,3.7,4.2,4.3,4.3
+Crescer AI,Machine Learning Engineer,,Remote,"₹ 1,00,000",,,,,,,,,,,
+Invoidea Technologies,Data Processing Executive,4.4,India,,1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.3,4.2,4.4,4.6,4.4
+FiftyFive Technologies,Data Science Engineer,,Jaipur,"₹ 7,66,812",51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.4,4.1,4.5,4.2,4.4
+Clearwater Analytics,Data Flow Engineer,3.4,Noida,"₹ 6,97,247",1001 to 5000 Employees,2004,Company - Public,Investment & Asset Management,Finance,$100 to $500 million (USD),3.4,3.3,3.4,3,3.2
+Certara,Data Analyst 1,4,Hyderābād,"₹ 4,07,603",1001 to 5000 Employees,2008,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,4.1,4,4,3.7,3.9
+Knoema,Data Engineer,3.9,Bengaluru,"₹ 4,91,606",51 to 200 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.7,3.6,3.6,3.7,3.8
+JPMorgan Chase & Co,Data Scientist Associate Sr,4,Hyderābād,"₹ 5,29,783",10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Growexx,Data Engineer,4.2,Remote,,51 to 200 Employees,--,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.3,4.3,4.1,4.2,4.3
+Blenheim Chalcot India,Data Engineer,3.7,Mumbai,"₹ 5,84,148",51 to 200 Employees,1998,Company - Private,Investment & Asset Management,Finance,Unknown / Non-Applicable,3.5,3.5,3.7,3.2,3.5
+LanceTech Solutions Pvt Ltd,Senior Data Engineer,4.9,Bengaluru,"₹ 17,50,000",51 to 200 Employees,2021,Company - Private,Information Technology Support Services,Information Technology,Less than $1 million (USD),5,4.7,4.4,5,4.6
+Capria Ventures,Data Analyst,,Bengaluru,"₹ 5,62,805",1 to 50 Employees,--,Private Practice / Firm,Investment & Asset Management,Finance,Less than $1 million (USD),3.4,3.3,4,4.2,3.8
+Artefact,Data Analyst,4,India,,501 to 1000 Employees,2014,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,4.2,3.7,4,3.9,3.7
+ATDXT,Oracle Data Administrator,,Bengaluru,,,,,,,,,,,,
+Antino Labs,Data Engineer,3.6,Gurgaon,,,,,,,,,,,,
+Tata Consultancy Services,Data Architect,3.8,Bengaluru,"₹ 4,24,476",10000+ Employees,1968,Company - Public,Software Development,Information Technology,$10+ billion (USD),3.7,3.1,3.9,3.3,3.8
+EMIDS,Big Data Engineer|| RR/27/2024 || 5+ yrs,3.6,Bengaluru,"₹ 8,49,262",1001 to 5000 Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.5,3.3,3.5,3.4,3.6
+Cesta Inc,Clinical Data Manager,,Bengaluru,"₹ 3,50,862",1 to 50 Employees,--,Contract,--,--,Unknown / Non-Applicable,,,,,
+Miba,Master Data Specialist,3.7,Pune,"₹ 2,56,518",5001 to 10000 Employees,1927,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.1,3.4,3.4,2.9,3.8
+Puneri Pattern,Data Scientist,,Maharashtra,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+Classic Informatics Private Limited,Data Analyst,4.4,Gurgaon,"₹ 5,29,150",51 to 200 Employees,2002,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.9,4.1,4.3,4.1,4.2
+Webandcraft,Data Scientist,4.1,Thrissur,"₹ 4,82,442",51 to 200 Employees,2012,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4.4,3.7,4.2,4.1,3.8
+Travitons Technologies,Data Analyst Engineer,,Pune,"₹ 4,38,178",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,,,,,
+Coforge Ltd.,DATA ENGINEER,3.6,Bengaluru,"₹ 5,39,802",10000+ Employees,2004,Company - Public,Information Technology Support Services,Information Technology,$500 million to $1 billion (USD),3.4,3.3,3.5,3.2,3.5
+Innorenovate,Senior SQL Engineer-Data Science,4,Remote,"₹ 25,00,000",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.7,3.1,4.5,3.9,4.3
+Pyramid Security Services Pvt Ltd,Data Entry Operator,,Bengaluru,"₹ 18,000",,,,,,,,,,,
+AutoGrid Systems,Senior Data Scientist - Forecasting (India),4.3,Remote,,51 to 200 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),4.3,4.3,4.3,4.2,4.2
+Pfizer,Statistical Programming Internship,4,Chennai,,10000+ Employees,1849,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.7,3.9,3.8,3.4,3.8
+ICON,Data Scientist (Real-World Evidence or RWE or HEOR) - Homebased,3.8,Remote,,10000+ Employees,1990,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$2 to $5 billion (USD),3.6,3.5,3.7,3.4,3.7
+Rayvat Outsourcing,AI-ML Data Analyst,2.3,Gāndhīnagar,"₹ 40,000",51 to 200 Employees,2007,Self-employed,Business Consulting,Management & Consulting,Unknown / Non-Applicable,2,1.5,1.3,2,1.8
+Getinz,Data Engineer - GCV - HYD,4.5,Hyderābād,"₹ 13,50,000",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.4,4.1,4.5,4.4,4.5
+HSO,HSO - GS - SQL & Data Migration,4.1,Bengaluru,"₹ 3,28,634",1001 to 5000 Employees,1987,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4,4.2,3.9,3.8,4.1
+Evalueserve,Analyst-Data Engineer,3.7,Gurgaon,"₹ 7,74,665",1001 to 5000 Employees,2000,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,3.6,3.2,3.7,3.5,3.6
+Sakhatech Information Systems,Data Engineer - California,4.3,Bengaluru,"₹ 5,38,615",51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,3.9,4.2,4.1,4.2
+Tech mahindra,GCP Data Engineer,3.6,Bengaluru,"₹ 4,21,710",10000+ Employees,1986,Company - Public,Information Technology Support Services,Information Technology,$5 to $10 billion (USD),3.5,3,3.5,3.2,3.5
+TMI Group,"Data Scientist (Statistian, Bayesian modelli...",3.9,Hyderābād,"₹ 17,50,000",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,5,3,5,5,5
+HQ Account LLC,Data Engineer,4.1,Cochin,"₹ 3,76,162",10000+ Employees,1867,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.9,4.1,3.7,3.7
+BOLD LLC,Data Science Architect- I,,Noida,"₹ 4,69,574",Unknown,--,Company - Private,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,4,5,4,5,4
+ShowTime Consulting,Data Lead,,Hyderābād,"₹ 8,15,093",,,,,,,,,,,
+ANZ Banking Group,Data Engineer,4.1,Bengaluru,"₹ 7,99,375",5001 to 10000 Employees,1835,Company - Public,Banking & Lending,Finance,Unknown / Non-Applicable,3.8,3.7,4.1,3.6,4.1
+Food Memories,"Specialist, Data analytics",,Delhi,,Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,,,,,
+Synopsys,Data Analyst (License Compliance),4,Noida,"₹ 5,19,591",10000+ Employees,1986,Company - Public,Computer Hardware Development,Information Technology,$2 to $5 billion (USD),3.9,3.7,4.1,3.8,4
+RP2,Data Science Intern,,Cochin,,,,,,,,,,,,
+MRI Software,Data Engineer Level II,3.6,Bengaluru,"₹ 4,01,313",1001 to 5000 Employees,1971,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.6,3.4,3.8,3.4,3.9
+RamSoft,Data Engineer,3.4,Bengaluru,"₹ 8,57,763",51 to 200 Employees,1994,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,3.1,3.6,3.2,3.1,3.7
+Cashflo,Data Analyst,,Mumbai,"₹ 2,64,811",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.6,3.7,4.3,3.9,4.4
+Merck KGaA Darmstadt Germany,Head of Data Science & AI,4,Bengaluru,,10000+ Employees,1668,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.5,3.8,3.9,3.4,3.9
+Warner Bros. Discovery,Associate Data Engineer,3.6,Hyderābād,"₹ 5,56,230",10000+ Employees,2003,Company - Public,Film Production,Media & Communication,$10+ billion (USD),3.1,3.6,3.4,3,3.6
+Sprinklr,Data quality Analyst,3.4,Gurgaon,"₹ 7,79,230",1001 to 5000 Employees,2009,Company - Public,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.3,3.8,3.1,3,2.8
+JPMorgan Chase & Co,Reference Data Specialist - Digital Document Services,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+IPRO INDIA,Data Analyst,,Chandigarh,,Unknown,--,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4,4,4,4,4
+KPMG,Lighthouse Pyspark Data Engineer,3.8,Bengaluru,"₹ 5,91,608",10000+ Employees,1987,Company - Private,Business Consulting,Management & Consulting,$2 to $5 billion (USD),4,3.3,3.7,3.5,3
+Princeton IT America,Data Visualisation,,Bengaluru,,,,,,,,,,,,
+Sciera,Jr Data Scientist,,Chennai,"₹ 6,70,820",1 to 50 Employees,--,Company - Private,Accounting & Tax,Finance,Less than $1 million (USD),4.4,3.5,4.1,4.3,4.4
+Arm,Data Platform Administrator,4.4,Bengaluru,"₹ 5,55,354",1001 to 5000 Employees,1990,Company - Public,Computer Hardware Development,Information Technology,$2 to $5 billion (USD),4.2,4.2,4.5,3.9,4.4
+SIGMOID,Associate Data Scientist,4,Bengaluru,"₹ 8,61,070",501 to 1000 Employees,2013,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4,3.8,3.8,3.8,3.7
+S&P Global,LNG Data Analyst,4.1,Gurgaon,"₹ 5,78,496",10000+ Employees,1860,Company - Public,Research & Development,Management & Consulting,$10+ billion (USD),3.8,3.8,4.2,3.8,4.2
+Komodo Health,Research Data Analyst,3.5,Chennai,"₹ 4,76,943",501 to 1000 Employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.3,3.7,3.5,3.1,3.8
+Criteo,"Data Analyst, Retail Media, India",4.2,Gurgaon,"₹ 9,10,165",1001 to 5000 Employees,2005,Company - Public,Internet & Web Services,Information Technology,$2 to $5 billion (USD),3.8,4.1,4.4,3.8,4.4
+Macgence Technologies (OPC) PVT LTD,Internship (Data Annotation),4.8,Remote,"₹ 5,000",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,5,5,5,5,5
+UST,Lead I - Data Science,4,Cochin,,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.5,4,3.7,4
+Helius Technologies,Data Analyst (KYC),4.2,India,,501 to 1000 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4,4,4.3,4.1,4.3
+Truedge Software Solutions,"Technology head Data science, data analytics background",4.2,Hyderābād,,51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.2,3.8,4.2,3.1,4
+Boston Consulting Group,Data Analyst - X Delivery,4,Delhi,,10000+ Employees,1963,Company - Private,Business Consulting,Management & Consulting,$5 to $10 billion (USD),3.9,4,3.8,3.5,3.1
+SAP,Data Scientist for 3rd Party Data Management,4.4,Bengaluru,"₹ 7,34,492",10000+ Employees,1972,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),4.1,4,4.4,3.9,4.3
+Bolla Management India LLP,Data Analyst,3.5,Hyderābād,,Unknown,--,Company - Public,Convenience & Corner Stores,Retail & Wholesale,Unknown / Non-Applicable,,,,,
+Scaler Academy,Assistant Manager :: Data Analyst,4,Bengaluru,"₹ 2,62,907",51 to 200 Employees,2019,Company - Private,Education Support & Training Services,Education,Unknown / Non-Applicable,3.9,4.3,3.8,3.5,3.6
+BlackRock,"Analyst/Associate, Data Engineering- Gen AI",4,Gurgaon,,10000+ Employees,1988,Company - Public,Investment & Asset Management,Finance,$10+ billion (USD),3.9,3.7,3.9,3.6,3.6
+Informatica,Member Data Science,3.9,Bengaluru,,5001 to 10000 Employees,1993,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),3.7,3.9,4,3.5,3.9
+Creditas Solutions,Data Analyst,3.5,Gurgaon,"₹ 7,47,390",51 to 200 Employees,2015,Company - Private,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.8,3.5,3.4,3.6,3.4
+AgilizTech Software Services,Data Analyst,,Bengaluru,"₹ 5,26,498",1 to 50 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4,3.5,4.2,4.1,3.9
+ADCI - Haryana - D50,"Data Associate I (German), ML Data Ops",3.7,Gurgaon,"₹ 3,14,223",10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.7,3.8,3.6,3.3,3.2
+Indecomm Global Services,Lead Associate (Data Analysis),4,Bengaluru,"₹ 2,66,623",1001 to 5000 Employees,2003,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),3.9,3.6,3.8,3.7,3.9
+Marktine Technology Solutions,Data Enginerr(Python + Sql),4.2,Bengaluru,"₹ 16,00,000",51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4,3.7,4.1,4.1,4.3
+Flutch Technology Pvt Ltd,Data Entry Intern,,Bengaluru,"₹ 5,500",,,,,,,,,,,
+Moody's,Data Analyst,3.9,Bengaluru,"₹ 4,72,696",10000+ Employees,1900,Company - Public,Research & Development,Management & Consulting,$2 to $5 billion (USD),3.4,3.4,3.8,3.4,3.7
+Hilabs,Principal Data Scientist,3.6,Bengaluru,"₹ 9,79,796",51 to 200 Employees,2014,Company - Private,Software Development,Information Technology,$5 to $25 million (USD),3.5,3.9,3.4,3.4,3.1
+USP (U.S. Pharmacopeial Convention),Associate Data Scientist,3.7,India,,1001 to 5000 Employees,1820,Non-profit Organisation,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.3,4,3.8,3.5,3.9
+Google,"Technical Program Manager, Data Analytics",4.4,Bengaluru,,10000+ Employees,1998,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.2,4.5,4.3,3.9,4.2
+Merkle,Customer Analytics / Data Science - Lead Analyst - Analytics,3.7,Bengaluru,"₹ 5,13,142",10000+ Employees,1971,Company - Private,Advertising & Public Relations,Media & Communication,$2 to $5 billion (USD),3.5,3.2,3.7,3.3,3.8
+Vexma Technologies,Data Entry,4,Vadodara,"₹ 1,50,838",1 to 50 Employees,2015,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,4.3,3.5,4.4,3.9,3.5
+Novartis,Environmental Data & Analytics Expert,3.9,Hyderābād,,Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,,,,,
+Heptarc Technology Solution,Data Analyst,5,India,,Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,5,5,5,5,5
+Sagacious IP,Data Analyst,4.3,Gurgaon,"₹ 2,77,156",201 to 500 Employees,2008,Company - Private,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.4,4,4.2,4.1,3.9
+Ignitho,AWS Data Engineer,4.3,Chennai,"₹ 2,50,414",51 to 200 Employees,2016,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.4,4.1,4.3,4.1,4.4
+nurture.farm,Data Analyst,4.8,Bengaluru,"₹ 4,94,975",1 to 50 Employees,2016,Private Practice / Firm,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.6,3.9,4.8,4.4,4.3
+Growisto,Data Management & MIS Associate,4.3,Navi Mumbai,"₹ 5,22,034",51 to 200 Employees,2016,Company - Private,Advertising & Public Relations,Media & Communication,Unknown / Non-Applicable,4.4,4.2,4.4,4.3,3.9
+Wells Fargo,Data Governance Analyst,3.6,Hyderābād,,10000+ Employees,1852,Company - Public,Banking & Lending,Finance,$10+ billion (USD),3.5,3.7,3.5,3.1,3.6
+JPMorgan Chase & Co,Product Owner Data Acquisition Securities - Associate,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Dhwani Rural Information Systems,Data Engineer,3.8,Gurgaon,"₹ 3,88,673",51 to 200 Employees,2015,Company - Private,Software Development,Information Technology,$1 to $5 million (USD),3.9,3.3,3.8,3.7,3.3
+Rahi Systems,Senior Executive - Data Analytics,3.8,Pune,"₹ 17,50,000",501 to 1000 Employees,2012,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.5,3.5,3.8,3.6,3.4
+Hexanika,Data Analyst,3.5,Pune,"₹ 3,67,423",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.8,3.1,3.9,3.8,3.7
+Squalas,Data Warehouse ETL Tester,5,Hyderābād,"₹ 2,58,198",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,5,5,5,5,5
+Techigai,Data Engineer,,Hyderābād,"₹ 6,12,372",201 to 500 Employees,2020,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,3.7,3.8,3.9,3.8
+ASI-Apex Sourcing,Data Analyst,,Delhi,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4,4,4,5,4
+Medtronic,Data Analyst,3.9,India,,10000+ Employees,1949,Company - Public,Health Care Products Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.8,3.2,3.6
+ADCI - Uttar Pradesh,Data Engineer,3.7,Noida,"₹ 5,20,769",10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.7,3.8,3.6,3.3,3.2
+Clairvoyant,Python Data Engineer,4,Pune,"₹ 6,83,831",501 to 1000 Employees,2012,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,3.7,4,3.8,3.8
+Everstylish Lifestyle Pvt. Ltd.,Data Entry Operator,,Gurgaon,"₹ 13,500",,,,,,,,,,,
+Parexel,Data Management Lead II,3.8,Remote,,10000+ Employees,1982,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$2 to $5 billion (USD),3.7,3.6,3.8,3.5,3.7
+Trukky Logistics,Data science internship,,Gurgaon,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.1,2.9,2.9,3.2,2.7
+Optimum Info,Junior Analyst- Financial Data,,Noida,"₹ 2,26,362",,,,,,,,,,,
+Providence Global Center,Data Annotation Analyst,3.6,Hyderābād,"₹ 3,15,247",501 to 1000 Employees,1855,Non-profit Organisation,Healthcare Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.6,3.4,3.7,3.1,3.4
+Elfonze Technologies,"Microsoft Azure including Azure Blob Storage, Azure Data Lake Storage.",4.8,Hyderābād,"₹ 3,52,564",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.8,4.6,4.8,4.8,4.7
+altbalaji,Data Analyst,2.8,Mumbai,"₹ 2,64,811",51 to 200 Employees,--,Company - Public,--,--,Unknown / Non-Applicable,3,2.9,2.3,2.3,2
+Biz4Group,AI Data Scientist,4.4,Jaipur,"₹ 5,71,421",1 to 50 Employees,2003,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4,4.2,4.3,4.2
+Angel broking,Data Scientist 2,4.2,India,,1001 to 5000 Employees,1987,Company - Private,Investment & Asset Management,Finance,Unknown / Non-Applicable,4.1,4,4.1,3.9,4.1
+Indecomm Technology Services,Lead Associate (Data Analysis),4,Bengaluru,"₹ 2,66,623",1001 to 5000 Employees,2003,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),3.9,3.6,3.8,3.7,3.9
+Bombay Play,Data Analyst,4.3,Bengaluru,"₹ 2,40,000",51 to 200 Employees,2017,Company - Private,Video Game Publishing,Media & Communication,Unknown / Non-Applicable,4.3,4.2,4.3,4.1,4.3
+Aicence,Data Engineer,,Pune,"₹ 6,89,379",1 to 50 Employees,--,Contract,--,--,Unknown / Non-Applicable,3.7,3.7,3.7,3.3,3.5
+Adobe,BI Consultant,4.3,Bengaluru,,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$2 to $5 billion (USD),4,4.2,4.4,3.9,4.2
+Screen Magic Mobile Media Pvt. Ltd.,Data Analyst,3.6,Pune,"₹ 4,63,527",51 to 200 Employees,2008,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.7,3.6,3.3,3.2,3.2
+Recruise,1700_HCP_Data Science,4.6,Bengaluru,,,,,,,,,,,,
+SAVVI SALES AND SERVICE PVT.LTD.,Computer Data Entry Operator,,Haryāna,"₹ 7,500",,,,,,,,,,,
+Gravity Infosoft,Data Entry Operator,,Delhi,,Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,,,,,
+Zeitview,Data Analyst - Utility Linesman,3.2,Bengaluru,"₹ 6,62,628",1 to 50 Employees,2014,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3,2.7,3.3,3.1,3.6
+padmasai finance pvt ltd,Data Scientist,,India,"₹ 45,000",,,,,,,,,,,
+PayU,Data Engineer,3.7,Bengaluru,"₹ 7,62,764",1001 to 5000 Employees,2002,Company - Private,Internet & Web Services,Information Technology,$10+ billion (USD),3.6,3.6,3.6,3.4,3.6
+Ziniosedge,448395/Azure Data Factory,,India,,51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.6,3.4,4,3.5,3.7
+Macgence Technologies (OPC) PVT LTD,Internship (Data Annotation),4.8,Remote,"₹ 5,000",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,5,5,5,5,5
+Risk Edge Solutions,Junior Data Scientist,,Hyderābād,"₹ 4,80,089",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4,4,4,5,4
+Empower,Sr Analyst Data Science,3.9,Bengaluru,"₹ 3,94,308",10000+ Employees,1907,Company - Private,Investment & Asset Management,Finance,$2 to $5 billion (USD),3.9,3.6,3.9,3.6,4
+Paytm,MS SQL- DBA,3.6,Noida,"₹ 5,14,293",10000+ Employees,2010,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.3,3.3,3.2
+Adobe,Data Scientist,4.3,Noida,"₹ 4,88,950",10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$2 to $5 billion (USD),4,4.2,4.4,3.9,4.2
+Blue Yonder,Business Analytics Analyst I,4.1,Bengaluru,"₹ 7,25,428",5001 to 10000 Employees,1985,Company - Private,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),3.9,3.9,4.2,3.7,4
+PiWheel,Data Analyst,,India,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4,3,3,3,2
+Adobe,Senior Data Architect,4.3,Bengaluru,"₹ 7,54,707",10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$2 to $5 billion (USD),4,4.2,4.4,3.9,4.2
+Crossroad Elf DSS,Data Analytics Developer,4.8,Bengaluru,"₹ 5,26,498",1 to 50 Employees,2017,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,5,5,5,5,5
+TechStep,Data Scientist (Machine Learning),,India,,51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.3,4.3,4.3,4,4.3
+GyanTU,Data Analyst,,India,,,,,,,,,,,,
+Fusemachines,Data Analyst,3.4,Pune,"₹ 3,64,005",51 to 200 Employees,--,Company - Private,Internet & Web Services,Information Technology,$25 to $50 million (USD),3.6,3,3.7,3,3.6
+Infowiz Software Solution,DATA SCIENCE,,Chandigarh,"₹ 20,000",,,,,,,,,,,
+Myntra.com,Associate - Business Planning (Business Analyst),4,Bengaluru,"₹ 8,04,984",1001 to 5000 Employees,2007,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.8,3.7,4,3.5,3.5
+Aureus Analytics,Data Scientist,,Mumbai,"₹ 7,23,964",1 to 50 Employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.5,3.9,4.7,4.5,4.4
+Fluid.Live Solutions Pvt Ltd,Data Research Analyst,,Pune,"₹ 11,15,362",,,,,,,,,,,
+Zensar Technologies,"ETL, DATA MIGRATION",4,Bengaluru,,5001 to 10000 Employees,2001,Company - Public,Information Technology Support Services,Information Technology,$500 million to $1 billion (USD),3.9,3.8,4.1,3.8,4.1
+Decision Tree,Data Analyst,,Gurgaon,"₹ 5,39,259",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.8,3.4,3.8,3.4,3.8
+Airbus,Technical Data Analyst,4.1,Bengaluru,"₹ 4,86,056",1001 to 5000 Employees,1970,Company - Public,Aerospace & Defence,Aerospace & Defence,$10+ billion (USD),3.9,3.9,4,3.5,4.2
+Deloitte,Consulting-SAMA A&C-Data Science,4.1,Bengaluru,"₹ 7,48,378",10000+ Employees,1850,Company - Private,Accounting & Tax,Finance,Unknown / Non-Applicable,4.1,4,4.1,3.8,3.3
+NeGD,Data Analysts - MoRD,3.6,New Delhi,"₹ 5,24,786",1 to 50 Employees,--,Non-profit Organisation,--,--,Unknown / Non-Applicable,2.6,2.7,3,3.2,3.3
+Accenture,Data Science-Application Developer,4,Bengaluru,,10000+ Employees,1989,Company - Public,Business Consulting,Management & Consulting,$10+ billion (USD),4,3.7,4,3.6,3.6
+HDFC Bank,Retail Credit-Data Entry Operator-BL - Jaipur,3.6,Jaipur,"₹ 1,09,408",10000+ Employees,1995,Company - Public,Banking & Lending,Finance,$10+ billion (USD),3.6,3.3,3.2,3.1,2.7
+RightWave,Data Analyst,4,Noida,"₹ 4,64,758",51 to 200 Employees,2004,Company - Private,Advertising & Public Relations,Media & Communication,Unknown / Non-Applicable,4,3.7,3.9,3.8,3.7
+Sailo Technosoft,Data Engineer (Data Management),,Maharashtra,,,,,,,,,,,,
+Skyrand Technologies,Data Entry Operator,4.7,Coimbatore,"₹ 12,000",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.1,4,4.1,4.3,4.5
+Wells Fargo,Data Science Consultant,3.6,Bengaluru,,10000+ Employees,1852,Company - Public,Banking & Lending,Finance,$10+ billion (USD),3.5,3.7,3.5,3.1,3.6
+Recruitment Smart,Data Analyst,5,Ahmedabad,,Unknown,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+StatusNeo Technology Consulting,Data Scientist,4,Gurgaon,"₹ 5,01,996",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4,3.9,4,3.8,3.8
+Marktine Technology Solutions,Process Developer– Data Analyst,4.2,Remote,,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4,3.7,4.1,4.1,4.3
+Halliburton,"Tech Prof-Data Science, Assoc",3.7,Bengaluru,,,,,,,,,,,,
+KBR,Data Analyst,3.9,Gurgaon,,,,,,,,,,,,
+Emerson,Supply Chain Data Analyst,3.9,Pune,"₹ 4,82,377",10000+ Employees,1890,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.7,3.4,3.9,3.5,3.8
+Lendingkart,Manager - MIS & Data Analysis,3.9,India,,201 to 500 Employees,2014,Company - Private,Banking & Lending,Finance,Unknown / Non-Applicable,3.9,3.9,3.7,3.4,3.4
+Klub Works,E-Commerce Data Analyst,,Ahmedabad,,,,,,,,,,,,
+METRIO,Business Analyst,4,Bengaluru,"₹ 5,94,298",1001 to 5000 Employees,1971,Company - Public,Stock Exchanges,Finance,$2 to $5 billion (USD),3.8,3.8,4.1,3.9,4
+Accenture,Finance Process & Ops Associate - Finance Data Maintenance,4,Bengaluru,,10000+ Employees,1989,Company - Public,Business Consulting,Management & Consulting,$10+ billion (USD),4,3.7,4,3.6,3.6
+UBS,Data Management Analyst,3.9,Pune,"₹ 6,82,367",10000+ Employees,1862,Company - Public,Investment & Asset Management,Finance,$10+ billion (USD),3.6,3.5,3.9,3.5,3.8
+Dolby,Data Scientist,4.1,Bengaluru,,1001 to 5000 Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$2 to $5 billion (USD),3.6,3.7,4,3.5,4.2
+Magic Infomedia,Data Mining,,Delhi,,Unknown,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+GUJARAT FLUOROCHEMICALS,Data Scientist,4.3,Noida,"₹ 5,91,502",1001 to 5000 Employees,--,Company - Private,Chemical Manufacturing,Manufacturing,$10+ billion (USD),4.2,4,4,3.8,3.9
+Elsevier,Senior Data Analyst I,4.5,Chennai,"₹ 6,66,813",5001 to 10000 Employees,1880,Subsidiary or Business Segment,Publishing,Media & Communication,$2 to $5 billion (USD),4.1,4.2,4.5,4,4.6
+Resource Solutions,Operational Data Analyst,4.2,Hyderābād,"₹ 4,05,625",501 to 1000 Employees,1997,Subsidiary or Business Segment,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.1,3.9,4.2,4.1,4.1
+B. M. Infotrade Pvt. Ltd.,Data Analyst Intern,,Jaipur,"₹ 1,25,000",,,,,,,,,,,
+Affine,Data Analyst,4.8,Bengaluru,"₹ 4,80,625",1 to 50 Employees,2016,Private Practice / Firm,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.6,3.9,4.8,4.4,4.3
+MathCo,Senior Associate - Data Science,3.5,Bengaluru,"₹ 8,76,519",1001 to 5000 Employees,2016,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,3.6,3.4,3.6,3.2,2.9
+Larsen & Toubro,Data Analyst,3.5,Chennai,"₹ 6,50,000",10000+ Employees,2014,Company - Public,Information Technology Support Services,Information Technology,$500 million to $1 billion (USD),3.4,2.9,3.4,3.1,3.4
+NeoStats,Data Modeler,,Bengaluru,,,,,,,,,,,,
+NeoStats,Data Scientist,,Bengaluru,,,,,,,,,,,,
+Lilly,Data Scientist - 1st Party Data,4.1,Bengaluru,"₹ 8,80,909",10000+ Employees,1876,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.7,3.9,4,3.6,3.9
+Cityinfo Services,DATA ANALYST,3.9,Bengaluru,"₹ 3,22,490",51 to 200 Employees,--,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,4,3.9,3.9,4.1,4
+Navikenz,Data Scientist,,India,,51 to 200 Employees,2021,Company - Private,Business Consulting,Management & Consulting,$1 to $5 million (USD),4.5,3.9,4.5,4.5,4.5
+JPMorgan Chase & Co,Client Data Specialist IV,4,Hyderābād,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Yara,Associate Data Engineer R&D (Contract),4.2,Bengaluru,"₹ 6,59,950",10000+ Employees,1905,Company - Public,Chemical Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,4.3,3.6,4.2
+Advent InfoSoft Pvt Ltd,Data Management Executive,2.6,Delhi,,1 to 50 Employees,--,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,2.6,3.1,2.6,3.1,2.6
+SourceMash Technologies,Data Analyst/Power BI,3.2,Mohali,"₹ 4,06,940",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.4,3.1,3.1,3.1,3.3
+Litmus7,Data Engineer,4.7,Cochin,"₹ 7,24,900",501 to 1000 Employees,2009,Company - Private,Information Technology Support Services,Information Technology,$25 to $50 million (USD),4.4,4.1,4.7,4.5,4.5
+Confluent,Data Scientist II,3.7,India,,1001 to 5000 Employees,2014,Company - Public,Computer Hardware Development,Information Technology,$500 million to $1 billion (USD),3.6,4.2,3.6,3.1,3.5
+Mastercard,Data Engineer II,4.3,Pune,"₹ 2,03,995",10000+ Employees,1966,Company - Public,Financial Transaction Processing,Finance,Unknown / Non-Applicable,4.2,4.2,4.4,4,4.3
+E2E Infoware Management Services,Data Scientist,,Chennai,"₹ 5,36,656",51 to 200 Employees,2003,Company - Private,--,Information Technology,$10+ billion (USD),4.7,4.7,5,4.7,4.7
+Addepar,Market Data Analyst (Pune),4.2,Pune,"₹ 4,20,887",501 to 1000 Employees,2009,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4,4.2,4,3.3,4
+Nuware Systems,Analyst - Data Science,4.2,Bengaluru,"₹ 8,21,380",51 to 200 Employees,1994,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.9,3.8,4.2,4,4.4
+Schbang Digital Solutions,Business Analyst,3.8,Bengaluru,"₹ 2,74,542",1001 to 5000 Employees,2015,Company - Private,Advertising & Public Relations,Media & Communication,Unknown / Non-Applicable,4,3.2,3.9,3.5,3.4
+G2,Data Scientist II,4.5,Bengaluru,"₹ 7,01,282",501 to 1000 Employees,2012,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4,4.7,4.4,4.6
+Creative Synergies Group,Data Analyst-Power BI,3.8,Bengaluru,"₹ 7,61,723",1001 to 5000 Employees,2011,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,3.9,3.6,3.8,3.9,3.8
+VMAKS Constructions,Data Entry Operator,,Gurgaon,"₹ 17,500",,,,,,,,,,,
+ICON,Data & Reporting Analyst II,3.8,Chennai,"₹ 9,09,945",10000+ Employees,1990,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$2 to $5 billion (USD),3.6,3.5,3.7,3.4,3.7
+JPMorgan Chase & Co,Data Quality Associate,4,Hyderābād,"₹ 6,40,045",10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+NielsenIQ,Data Processing Analyst,3.9,Chennai,"₹ 3,60,000",10000+ Employees,1923,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.3,4.1,3.6,3.7
+Maruti Suzuki India Ltd,Data Scientist,3.9,Delhi,,10000+ Employees,--,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.7,4,3.4,3.3,3.1
+Blinkyard Infotech,Data Entry,3.1,Bengaluru,"₹ 1,58,291",Unknown,--,Company - Public,--,--,Unknown / Non-Applicable,3.1,3.1,3.1,3.1,3.1
+SE-Mentor Solutions,Data Analyst,,Cochin,"₹ 2,64,244",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.3,3,4.4,4.2,4.6
+Firebucks,Data Modeler,,Bengaluru,"₹ 4,43,293",1 to 50 Employees,2015,Private Practice / Firm,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,5,4,5,5,4
+Heads Up For Tails,Inventory Manager- Data Analyst,4.3,Bengaluru,"₹ 6,90,600",1001 to 5000 Employees,2008,Company - Private,Pet & Pet Supplies Stores,Retail & Wholesale,Unknown / Non-Applicable,4,3.7,3.9,3.8,3.8
+Amnet Digital,Data Scientist,4,Hyderābād,"₹ 4,38,887",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.1,3.7,3.9,3.9,3.9
+The Bridgespan Group,Platform & Data Associate,4.2,Mumbai,"₹ 14,00,000",201 to 500 Employees,2000,Non-profit Organisation,"Civic, Welfare & Social Services",Non-profit & NGO,$25 to $50 million (USD),4.2,4.2,4.3,3.8,3.5
+Deloitte,Enabling Areas - Data Scientist - AM/DM,4.1,Delhi,,10000+ Employees,1850,Company - Private,Accounting & Tax,Finance,Unknown / Non-Applicable,4.1,4,4.1,3.8,3.3
+Nestle Operational Services Worldwide SA,Data Engineer,4.1,Bengaluru,"₹ 4,99,919",10000+ Employees,1867,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.9,4.1,3.7,3.7
+Coforge Ltd.,DATA ANALYST - SAS,3.6,Greater Noida,"₹ 7,81,721",10000+ Employees,2004,Company - Public,Information Technology Support Services,Information Technology,$500 million to $1 billion (USD),3.4,3.3,3.5,3.2,3.5
+Motive,Data Engineer,4,Bengaluru,"₹ 6,16,344",1001 to 5000 Employees,2013,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,3.9,3.9,4.1,3.7,4
+DataEconomy,AWS Data Engineer,4.7,Hyderābād,"₹ 8,52,614",201 to 500 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.7,3.9,4.5,4.7,3.9
+"Medpace, Inc.",Junior/ Associate Data Manager,3.4,Thāne,"₹ 5,89,237",5001 to 10000 Employees,1992,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$2 to $5 billion (USD),3.3,3,3.2,3,3.2
+VINAYAGA ENTERPRISES,Data Entry Officer,,Chennai,"₹ 25,250",,,,,,,,,,,
+ADCI - Haryana,"Data Associate I (French), ML Data Ops",3.7,Gurgaon,"₹ 3,17,332",10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.7,3.8,3.6,3.3,3.2
+Innovative Incentives,MIS & Data Analysts,3.3,Mohali,"₹ 4,06,940",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,3.3,2.9,2.9,2.8,3.2
+Cellworks Research India,Data Scientist,,Bengaluru,"₹ 5,09,747",51 to 200 Employees,2005,Company - Private,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.3,3.5,3.3,3.2,2.9
+MOLECULAR CONNECTIONS,Clinical SAS Programmers,3.7,Remote,,1001 to 5000 Employees,2001,Company - Private,Healthcare Services & Hospitals,Healthcare,$25 to $50 million (USD),3.6,3.4,3.7,3.7,3.6
+Moonpreneur,Data Research Associate,4.6,Gurgaon,"₹ 4,06,202",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,5,5,5,5,4.5
+Sitare Foundation,Data Entry Operator,3,Gurgaon,"₹ 2,04,573",Unknown,--,Company - Private,"Civic, Welfare & Social Services",Non-profit & NGO,Unknown / Non-Applicable,3,3.3,2.9,3,2.9
+KRSNAA Diagnostics,Data Analyst,3.3,Pune,"₹ 1,82,166",Unknown,--,Company - Private,Medical Testing & Clinical Laboratories,Healthcare,Unknown / Non-Applicable,3.4,3,3.1,3,2.9
+Quest Global,Data Analyst,3.7,Belgaum,"₹ 4,15,258",10000+ Employees,1997,Company - Private,Information Technology Support Services,Information Technology,$500 million to $1 billion (USD),3.7,3.2,3.8,3.5,3.7
+Concentrix,Data Miner Global Analytics,4.1,Bengaluru,"₹ 4,14,540",10000+ Employees,2004,Company - Public,Information Technology Support Services,Information Technology,$2 to $5 billion (USD),4,3.7,4.1,3.9,3.8
+Ethnotech Academy,MACHINE LEARNING / DATA SCIENCE TRAINER,,Bengaluru,,51 to 200 Employees,--,Unknown,--,--,Unknown / Non-Applicable,3.4,3.4,3.2,3.2,3.4
+JPMorgan Chase & Co,CIB-Markets Data Management Associate,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+NTT Ltd.,Manager - Data Center Operations,4.2,Karnataka,,10000+ Employees,1952,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),4,3.6,4,3.7,4
+Exeliq Consulting,Data Scientist,,India,,1 to 50 Employees,2019,Company - Public,--,--,Less than $1 million (USD),3,1.5,2.5,2.5,3.1
+PharmaACE,Data Engineer,3.3,Pune,"₹ 4,18,911",201 to 500 Employees,2013,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$25 to $50 million (USD),3.8,3.2,3.2,3.2,2.7
+Marktine Technology Solutions,Data engineer,4.2,Remote,,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4,3.7,4.1,4.1,4.3
+MOLECULAR CONNECTIONS,Statistical Analyst,3.7,Remote,,1001 to 5000 Employees,2001,Company - Private,Healthcare Services & Hospitals,Healthcare,$25 to $50 million (USD),3.6,3.4,3.7,3.7,3.6
+Bombay Play,Data Engineer,4.3,Bengaluru,"₹ 7,68,192",51 to 200 Employees,2017,Company - Private,Video Game Publishing,Media & Communication,Unknown / Non-Applicable,4.3,4.2,4.3,4.1,4.3
+Medical Assistance,Data Entry Operator,,Cochin,"₹ 16,500",,,,,,,,,,,
+Thoucentric,Data Analyst (Advanced SQL Experience),4.1,Bengaluru,"₹ 9,21,654",201 to 500 Employees,2015,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,3.8,3.5,4.5,4.1,4
+Prevalent AI,Data Scientist,4.8,Cochin,"₹ 6,91,558",51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.9,4.5,4.9,4.8,4.1
+Citta Solutions,Data Engineer,3.6,Remote,,1 to 50 Employees,2009,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),3.6,3.5,3.9,3.8,3.6
+OpsFree,Data Science Intern,,Ahmedabad,"₹ 7,500",,,,,,,,,,,
+Databricks,Big Data Architect,4.4,Remote,,5001 to 10000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.3,4.3,4.3,4.2,3.8
+Global WeConnect Technologies,Snowflake Data Engineer,4.8,Bengaluru,"₹ 5,91,608",1 to 50 Employees,2020,Company - Private,Information Technology Support Services,Information Technology,Less than $1 million (USD),4.6,4.4,4.4,4.6,4.2
+Xcel Hires Management Solution,Data Science,,Bengaluru,"₹ 20,00,000",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,,,,,
+IBM,Data Scientist: Artificial Intelligence,4.2,Bengaluru,"₹ 7,47,669",10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),4.1,3.6,4.2,3.8,4.2
+Gain.pro,Private Equity Intelligence - Data Management Analyst,4,Bengaluru,"₹ 3,84,773",51 to 200 Employees,2018,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.9,3.4,3.8,3.7,4.2
+String Bio,DATA SCIENTIST,4.3,Bengaluru,"₹ 5,79,655",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.6,3.3,4.5,4.7,3.6
+BSRI Solutions,Data Scientist,,Chennai,"₹ 11,00,000",1 to 50 Employees,2016,Company - Private,"Staffing, Recruitment & Subcontracting",Human Resources & Staffing,Less than $1 million (USD),,,,,
+JPMorgan Chase & Co,Data and Quality Control Processing - Associate,4,India,,10000+ Employees,1799,Company - Public,Banking & Lending,Finance,$10+ billion (USD),4,3.9,3.9,3.6,3.7
+Inventive Software Solutions Pvt. Ltd,Data Entry Operator/Computer Operator,,Noida,"₹ 19,000",,,,,,,,,,,
+eCloudChain,Data Analyst,,Remote,,1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4,4,5,5,4
+Kpro Solutions,Analytics & Data Science,4,Bengaluru,"₹ 4,83,915",1 to 50 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4,4,4,4,4
+Athena Global Technologies,Data Engineer,,Hyderābād,"₹ 6,78,949",51 to 200 Employees,--,Company - Private,--,--,Unknown / Non-Applicable,4.2,3.5,4,3.9,3.9
+Wesco,India-Bangalore: Data Engineer,3.7,Bengaluru,"₹ 6,51,920",10000+ Employees,1922,Company - Public,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.4,3.6,3.3,3.8
+Course5,Data Scientist,4.2,Bengaluru,"₹ 4,24,426",1001 to 5000 Employees,2000,Company - Private,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.3,4.1,4.3,4.1,4.2
+Sanfoundry,Machine Learning Engineer - Fresher,,Hyderābād,,1 to 50 Employees,--,Self-employed,Colleges & Universities,Education,Unknown / Non-Applicable,4.5,4.3,4.6,4.7,4.6
