@@ -1,4 +1,5 @@
 # Electric Vechicle Population Data in USA - Dashboard
+https://medium.com/stackademic/charging-ahead-a-comprehensive-analysis-of-electric-vehicle-population-data-8cadbf414356
 
 Gathered the data from the open source data available on Data.gov website.
 
