@@ -1,3 +1,4 @@
+Support me with a coffee: https://ko-fi.com/kamireddymahendra
 # Adidas-Sales-Analysis
 
 Conducted a comprehensive sales analysis of adidas across diverse regions within the USA reveals intricate patterns across various states, cities, and retailer channels. 
