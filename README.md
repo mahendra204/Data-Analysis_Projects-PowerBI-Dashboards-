@@ -1,5 +1,4 @@
-Support me with a coffee: https://ko-fi.com/kamireddymahendra
-# Adidas-Sales-Analysis
+# Adidas-Sales-Analysis - A Data Analysis Project
 
 Conducted a comprehensive sales analysis of adidas across diverse regions within the USA reveals intricate patterns across various states, cities, and retailer channels. 
 
@@ -7,5 +6,6 @@ This analysis delves into the dynamic interplay of consumer preferences, market 
 
 By dissecting sales data at granular levels, including geographic regions, retailer networks, and product assortments, we aim to unearth valuable insights that inform strategic decision-making and optimize performance across the expansive landscape of adidas sales in the USA
 
+Adidas-Sales-Analysis: https://medium.com/p/6a742083735d/edit
 
-https://medium.com/p/6a742083735d/edit
+Support me with a coffee: https://ko-fi.com/kamireddymahendra
