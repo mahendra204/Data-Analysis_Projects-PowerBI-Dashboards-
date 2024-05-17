@@ -1,6 +1,5 @@
 
-# Data Analysis Projects Articles @ Medium - Power BI, DAX, MS Excel, Power Query 
-# Give Star if you like this repository or if it help you. 
+# Data Analysis Projects Articles @ Medium - Power BI, DAX, MS Excel, Power Query  
 
 data-analysis-project-amazon-prime-video-userbase-their-usage: https://medium.com/towards-artificial-intelligence/a-data-analysis-project-amazon-prime-video-userbase-their-usage-ab347eced666
 
@@ -12,4 +11,5 @@ comprehensive-analysis-of-electric-vehicle-population-data: https://blog.stackad
 
 data-science-jobs-analysis-project: https://medium.com/illumination/data-science-jobs-analysis-project-43cc639d4407
 
-To Support me: https://ko-fi.com/kamireddymahendra
+# Kindly give Star if you like this repository to encourage me to boost my energy to contribute more to the community. 
+
