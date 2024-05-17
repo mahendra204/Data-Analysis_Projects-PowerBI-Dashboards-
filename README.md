@@ -1,5 +1,6 @@
 
-# Data Analysis Projects Articles @ Medium - Power BI, DAX, MS Excel, Power Query
+# Data Analysis Projects Articles @ Medium - Power BI, DAX, MS Excel, Power Query 
+# Give Star if you like this repository or if it help you. 
 
 data-analysis-project-amazon-prime-video-userbase-their-usage: https://medium.com/towards-artificial-intelligence/a-data-analysis-project-amazon-prime-video-userbase-their-usage-ab347eced666
 
