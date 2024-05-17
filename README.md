@@ -8,4 +8,5 @@ By dissecting sales data at granular levels, including geographic regions, retai
 
 Adidas-Sales-Analysis: https://medium.com/p/6a742083735d/edit
 
-Don't forget to Make it Start if my repository help in aiding your knowledge.
+
+# Kindly give Star if you like this repository to encourage me to boost my energy to contribute more to the community. 
