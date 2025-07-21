@@ -1,7 +1,7 @@
-# Hope you will give star if you like this repository to encourage me to boost my energy to contribute more to the community. 
+## Hope you will give star if you like this repository to encourage me to boost my energy to contribute more to the community. 
 =======
 
-# Data Analysis Projects Articles @ Medium - Power BI, DAX, MS Excel, Power Query  
+## Data Analysis Projects Articles @ Medium - Power BI, DAX, MS Excel, Power Query  
 
 data-analysis-project-amazon-prime-video-userbase-their-usage: https://medium.com/towards-artificial-intelligence/a-data-analysis-project-amazon-prime-video-userbase-their-usage-ab347eced666
 
@@ -12,6 +12,4 @@ data-analysis-project-adidas-sales-report: https://pub.towardsai.net/a-data-anal
 comprehensive-analysis-of-electric-vehicle-population-data: https://blog.stackademic.com/charging-ahead-a-comprehensive-analysis-of-electric-vehicle-population-data-8cadbf414356
 
 data-science-jobs-analysis-project: https://medium.com/illumination/data-science-jobs-analysis-project-43cc639d4407
-
-# Kindly give Star if you like this repository to encourage me to boost my energy to contribute more to the community. 
 
