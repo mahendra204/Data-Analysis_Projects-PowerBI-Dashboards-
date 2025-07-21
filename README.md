@@ -1,12 +1,17 @@
-# Adidas-Sales-Analysis - A Data Analysis Project
+# Hope you will give star if you like this repository to encourage me to boost my energy to contribute more to the community. 
+=======
 
-Conducted a comprehensive sales analysis of adidas across diverse regions within the USA reveals intricate patterns across various states, cities, and retailer channels. 
+# Data Analysis Projects Articles @ Medium - Power BI, DAX, MS Excel, Power Query  
 
-This analysis delves into the dynamic interplay of consumer preferences, market dynamics, and product performance. 
+data-analysis-project-amazon-prime-video-userbase-their-usage: https://medium.com/towards-artificial-intelligence/a-data-analysis-project-amazon-prime-video-userbase-their-usage-ab347eced666
 
-By dissecting sales data at granular levels, including geographic regions, retailer networks, and product assortments, we aim to unearth valuable insights that inform strategic decision-making and optimize performance across the expansive landscape of adidas sales in the USA
+data-analysis-project-coffee-shop-sales-analysis: https://pub.towardsai.net/a-data-analysis-project-coffee-shop-sales-analysis-dc39ee107dc6
 
-Adidas-Sales-Analysis: https://medium.com/p/6a742083735d/edit
+data-analysis-project-adidas-sales-report: https://pub.towardsai.net/a-data-analysis-project-adidas-sales-report-6a742083735d
 
+comprehensive-analysis-of-electric-vehicle-population-data: https://blog.stackademic.com/charging-ahead-a-comprehensive-analysis-of-electric-vehicle-population-data-8cadbf414356
+
+data-science-jobs-analysis-project: https://medium.com/illumination/data-science-jobs-analysis-project-43cc639d4407
 
 # Kindly give Star if you like this repository to encourage me to boost my energy to contribute more to the community. 
+
