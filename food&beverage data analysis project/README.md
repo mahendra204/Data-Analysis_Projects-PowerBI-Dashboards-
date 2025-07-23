@@ -12,4 +12,3 @@ data-analysis-project-adidas-sales-report: https://pub.towardsai.net/a-data-anal
 comprehensive-analysis-of-electric-vehicle-population-data: https://blog.stackademic.com/charging-ahead-a-comprehensive-analysis-of-electric-vehicle-population-data-8cadbf414356
 
 data-science-jobs-analysis-project: https://medium.com/illumination/data-science-jobs-analysis-project-43cc639d4407
-
